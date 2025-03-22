@@ -1,0 +1,2001 @@
+Initiative_ID,Change_Type,Outcome,ROI,Time_Taken
+1,Technology Change,Unsuccessful,0.673421134335433,8
+2,Process Change,Partially Successful,1.2672265560839764,6
+3,Technology Change,Partially Successful,-0.04490454210569078,11
+4,Process Change,Successful,1.1132138939602307,18
+5,Technology Change,Successful,1.7128438207514707,23
+6,Process Change,Successful,0.06298107491804505,21
+7,Cultural Change,Successful,1.2588261334911608,14
+8,Technology Change,Successful,0.38074791578877076,10
+9,Process Change,Partially Successful,1.9168508484141453,21
+10,Cultural Change,Unsuccessful,0.1938567312472882,6
+11,Process Change,Unsuccessful,-0.3430521570682389,18
+12,Process Change,Unsuccessful,1.9943355560670435,21
+13,Technology Change,Partially Successful,1.293025080790176,3
+14,Process Change,Successful,0.9770240750585326,14
+15,Cultural Change,Successful,0.8123959519577713,5
+16,Cultural Change,Successful,0.2939102213506253,18
+17,Technology Change,Partially Successful,0.04200177404220673,5
+18,Process Change,Successful,-0.11778301774827066,18
+19,Cultural Change,Partially Successful,-0.06995013253326143,21
+20,Cultural Change,Successful,0.6046527553078855,15
+21,Process Change,Unsuccessful,0.3506588872278692,6
+22,Technology Change,Unsuccessful,-0.0791423785508148,4
+23,Process Change,Partially Successful,-0.06010491643708826,8
+24,Process Change,Successful,1.0575217506873376,1
+25,Technology Change,Successful,1.0123808131626604,22
+26,Cultural Change,Partially Successful,1.0514341457797907,8
+27,Technology Change,Successful,0.7132858756080278,6
+28,Cultural Change,Successful,0.03978359518417007,16
+29,Cultural Change,Successful,0.5193088262633347,19
+30,Process Change,Successful,1.9773972202838457,11
+31,Cultural Change,Successful,1.997751940073865,11
+32,Process Change,Successful,0.0862312819888218,20
+33,Technology Change,Successful,0.6957890724048237,19
+34,Technology Change,Partially Successful,0.9119688692677157,12
+35,Process Change,Partially Successful,-0.24738234193484598,14
+36,Technology Change,Successful,0.8090427649623979,1
+37,Process Change,Unsuccessful,-0.07418526577741597,9
+38,Process Change,Successful,0.031057297131924733,2
+39,Cultural Change,Successful,1.9302845610380057,17
+40,Process Change,Unsuccessful,-0.35195111258828,1
+41,Technology Change,Successful,0.39084795721819876,9
+42,Cultural Change,Unsuccessful,-0.27785172149200993,17
+43,Technology Change,Successful,1.0324893728101896,2
+44,Cultural Change,Successful,1.4693823195673552,21
+45,Cultural Change,Unsuccessful,1.4417403682086218,21
+46,Technology Change,Partially Successful,-0.022294228495796486,16
+47,Cultural Change,Unsuccessful,0.8595033898262443,10
+48,Process Change,Successful,0.3623421958766251,5
+49,Technology Change,Unsuccessful,1.6194654494093554,7
+50,Technology Change,Partially Successful,-0.37218748633779897,18
+51,Cultural Change,Successful,1.6126358580915845,8
+52,Cultural Change,Unsuccessful,0.32637939625037093,14
+53,Technology Change,Unsuccessful,-0.06470553950443864,17
+54,Cultural Change,Unsuccessful,1.3736480695595346,16
+55,Cultural Change,Partially Successful,-0.22987896062610463,3
+56,Process Change,Partially Successful,-0.1296988866194022,18
+57,Technology Change,Partially Successful,0.521380538963067,17
+58,Cultural Change,Successful,-0.15869516012166363,19
+59,Process Change,Partially Successful,0.5657430181093708,15
+60,Process Change,Unsuccessful,0.4071541150260226,12
+61,Cultural Change,Successful,1.173980682772522,4
+62,Technology Change,Successful,0.965472086583177,15
+63,Process Change,Unsuccessful,1.3610553304158786,22
+64,Process Change,Partially Successful,-0.027450401438537775,18
+65,Cultural Change,Partially Successful,1.8040492636690244,15
+66,Technology Change,Partially Successful,0.3887619593987097,13
+67,Technology Change,Successful,1.2170387880638105,6
+68,Technology Change,Successful,0.16074606220914966,11
+69,Cultural Change,Unsuccessful,1.8850204283335437,2
+70,Technology Change,Unsuccessful,1.0568940200194152,16
+71,Technology Change,Partially Successful,0.9345926279228649,3
+72,Cultural Change,Partially Successful,1.1460247744032572,7
+73,Cultural Change,Successful,0.03995950940993209,18
+74,Process Change,Successful,1.1530435262132939,2
+75,Cultural Change,Partially Successful,1.0085961314819043,23
+76,Technology Change,Unsuccessful,1.1473879564273228,17
+77,Cultural Change,Unsuccessful,-0.4203842724128233,2
+78,Cultural Change,Unsuccessful,1.3618518936964643,20
+79,Technology Change,Successful,0.06788876782014186,14
+80,Process Change,Successful,0.5411513177936769,11
+81,Process Change,Successful,0.4402501278732942,7
+82,Technology Change,Partially Successful,1.5925297036068455,1
+83,Process Change,Successful,-0.26425975230372695,1
+84,Technology Change,Partially Successful,-0.28993823013777964,8
+85,Process Change,Partially Successful,1.956248165781572,18
+86,Cultural Change,Successful,0.9262973542855941,18
+87,Technology Change,Unsuccessful,0.09988637211517903,10
+88,Technology Change,Successful,-0.47276426086785156,13
+89,Process Change,Successful,-0.26585311766982267,23
+90,Technology Change,Unsuccessful,-0.17097635312362897,21
+91,Cultural Change,Successful,0.8925057078751606,19
+92,Process Change,Successful,-0.1916701948855863,15
+93,Process Change,Partially Successful,-0.04472555912370901,1
+94,Process Change,Unsuccessful,0.8020216190809348,10
+95,Cultural Change,Successful,0.05631298203480095,11
+96,Cultural Change,Successful,1.6751196382187272,3
+97,Process Change,Successful,0.7089291148362729,9
+98,Technology Change,Partially Successful,0.6249975047051706,4
+99,Process Change,Unsuccessful,1.5375543701909704,12
+100,Process Change,Successful,0.5946894840761747,4
+101,Technology Change,Successful,0.4796089794771645,23
+102,Technology Change,Partially Successful,1.6143777066772786,5
+103,Technology Change,Partially Successful,1.8549243423414938,13
+104,Process Change,Successful,1.491116056214945,2
+105,Process Change,Partially Successful,1.631190005936832,14
+106,Cultural Change,Partially Successful,0.13605598057447676,20
+107,Process Change,Partially Successful,-0.3354096713123382,11
+108,Process Change,Successful,1.474744801145131,8
+109,Cultural Change,Unsuccessful,-0.05397945790743719,23
+110,Technology Change,Successful,-0.06057044162187897,19
+111,Technology Change,Partially Successful,0.4943155495366396,2
+112,Technology Change,Partially Successful,1.6319185122868336,7
+113,Cultural Change,Partially Successful,1.0623869400329933,22
+114,Cultural Change,Successful,1.172425043139927,10
+115,Technology Change,Successful,1.8993426195718648,16
+116,Cultural Change,Successful,0.9921832698578292,11
+117,Technology Change,Partially Successful,0.33659268867304015,10
+118,Cultural Change,Unsuccessful,1.2564813191554127,11
+119,Process Change,Unsuccessful,1.1478433419391203,3
+120,Process Change,Successful,1.1985873340671531,20
+121,Cultural Change,Partially Successful,-0.2284555015898802,18
+122,Technology Change,Unsuccessful,-0.459962295329379,2
+123,Technology Change,Partially Successful,-0.2603902024247982,6
+124,Cultural Change,Unsuccessful,-0.3048402714936894,15
+125,Process Change,Partially Successful,1.8793973889886733,21
+126,Technology Change,Unsuccessful,1.9829379473734456,10
+127,Technology Change,Unsuccessful,0.9062146138621947,1
+128,Cultural Change,Successful,1.213700849415477,5
+129,Technology Change,Partially Successful,1.25824355992861,8
+130,Process Change,Unsuccessful,1.2283098074068592,22
+131,Cultural Change,Partially Successful,-0.4936102898103851,22
+132,Cultural Change,Unsuccessful,-0.3252550719419518,21
+133,Technology Change,Partially Successful,1.7387346641201282,6
+134,Process Change,Partially Successful,1.2378940337446533,3
+135,Cultural Change,Partially Successful,-0.25454312195134704,19
+136,Cultural Change,Unsuccessful,1.6566778030113154,15
+137,Process Change,Unsuccessful,-0.332193189511918,9
+138,Process Change,Partially Successful,1.4086781839310205,9
+139,Cultural Change,Successful,0.8505182651152698,13
+140,Technology Change,Partially Successful,1.066395475314302,17
+141,Technology Change,Partially Successful,0.20327270927228014,5
+142,Process Change,Unsuccessful,1.6912333956277479,20
+143,Cultural Change,Partially Successful,1.1506939726778656,9
+144,Cultural Change,Unsuccessful,1.7661399709123273,1
+145,Process Change,Unsuccessful,1.5766119060951707,21
+146,Technology Change,Unsuccessful,0.04641220260912693,15
+147,Process Change,Successful,-0.10901523584463485,23
+148,Process Change,Unsuccessful,0.3259607737684904,14
+149,Technology Change,Successful,1.1783716677327976,9
+150,Cultural Change,Partially Successful,1.236331740177048,11
+151,Technology Change,Partially Successful,0.4823219064551172,5
+152,Technology Change,Partially Successful,0.7648486695333283,5
+153,Process Change,Unsuccessful,1.2337954739965766,5
+154,Technology Change,Successful,1.3046764112091498,10
+155,Process Change,Unsuccessful,-0.4424867886068538,21
+156,Technology Change,Unsuccessful,1.6238987285324926,12
+157,Process Change,Successful,-0.21463808061483663,12
+158,Cultural Change,Partially Successful,1.1204124253278707,14
+159,Cultural Change,Successful,0.22434329551178622,9
+160,Process Change,Partially Successful,1.0490879121376593,14
+161,Cultural Change,Partially Successful,-0.15211524545377647,9
+162,Cultural Change,Partially Successful,1.1507327808727816,11
+163,Cultural Change,Unsuccessful,0.38490287321048855,17
+164,Cultural Change,Successful,1.4748537611884918,14
+165,Process Change,Unsuccessful,0.48755078215551717,20
+166,Process Change,Partially Successful,-0.36679120494356826,3
+167,Cultural Change,Unsuccessful,1.15850541422838,15
+168,Technology Change,Successful,0.32432668084667626,7
+169,Process Change,Unsuccessful,0.6759843762346078,9
+170,Cultural Change,Partially Successful,1.9571833503991942,17
+171,Technology Change,Partially Successful,0.8306284785309184,6
+172,Technology Change,Partially Successful,1.680156066238748,16
+173,Cultural Change,Partially Successful,0.571225654062216,16
+174,Process Change,Partially Successful,-0.03277119667184758,7
+175,Technology Change,Partially Successful,1.2573620921597224,18
+176,Process Change,Unsuccessful,-0.1356843801253736,23
+177,Cultural Change,Successful,1.276551487384378,14
+178,Cultural Change,Partially Successful,0.5295486477199878,16
+179,Cultural Change,Successful,1.0245888767543805,10
+180,Technology Change,Unsuccessful,1.4955127062288476,14
+181,Technology Change,Unsuccessful,-0.181774179764904,17
+182,Cultural Change,Successful,0.3355865250070915,13
+183,Process Change,Successful,1.9936889246450633,18
+184,Process Change,Successful,0.9042855741959417,17
+185,Technology Change,Unsuccessful,-0.17695161360878547,11
+186,Process Change,Successful,0.15016309319504306,17
+187,Process Change,Unsuccessful,0.2787599444641391,10
+188,Process Change,Successful,0.014001270725976678,10
+189,Technology Change,Partially Successful,1.541624883571303,18
+190,Process Change,Partially Successful,1.597389045459639,12
+191,Process Change,Unsuccessful,0.4602362949306448,8
+192,Process Change,Partially Successful,0.6428931401484412,20
+193,Cultural Change,Unsuccessful,0.6691956247649666,7
+194,Technology Change,Successful,1.4980408964767093,11
+195,Technology Change,Partially Successful,-0.4711690626492422,3
+196,Technology Change,Unsuccessful,-0.45730662308464104,10
+197,Cultural Change,Unsuccessful,0.08722440923347308,14
+198,Cultural Change,Successful,0.24192295574627365,16
+199,Process Change,Partially Successful,1.9393697721406635,16
+200,Cultural Change,Successful,-0.08364016999868146,6
+201,Technology Change,Partially Successful,1.5839326735165762,23
+202,Technology Change,Unsuccessful,0.008546483771666669,8
+203,Technology Change,Successful,0.19672390727422462,14
+204,Process Change,Partially Successful,0.44550022788233434,23
+205,Cultural Change,Successful,1.48563699863759,9
+206,Process Change,Successful,0.47595640725624766,1
+207,Technology Change,Partially Successful,0.5783285073649633,21
+208,Cultural Change,Successful,0.7052565304055456,1
+209,Technology Change,Successful,0.1214522224301583,12
+210,Technology Change,Successful,1.8914565255542635,19
+211,Technology Change,Unsuccessful,0.37667927611884,5
+212,Technology Change,Successful,0.2537611408223954,13
+213,Cultural Change,Unsuccessful,0.7054902159009859,14
+214,Technology Change,Unsuccessful,1.6366247855120162,18
+215,Technology Change,Partially Successful,0.7837410907617086,11
+216,Cultural Change,Partially Successful,-0.02646178821987627,3
+217,Technology Change,Unsuccessful,0.01861508082949226,9
+218,Cultural Change,Unsuccessful,0.22465749316207584,16
+219,Technology Change,Successful,1.9151836490683998,11
+220,Technology Change,Partially Successful,0.4099916970286026,11
+221,Process Change,Unsuccessful,1.6696510717054078,7
+222,Technology Change,Partially Successful,1.5981808035533254,13
+223,Technology Change,Unsuccessful,0.4037670139532119,7
+224,Process Change,Successful,0.9450071353872938,21
+225,Technology Change,Unsuccessful,0.42330254128015343,18
+226,Process Change,Successful,-0.07471512282465853,4
+227,Process Change,Partially Successful,1.533000093833091,15
+228,Technology Change,Successful,0.9201977540820574,22
+229,Process Change,Partially Successful,1.3839817306010587,11
+230,Process Change,Unsuccessful,0.0050859028170016085,4
+231,Cultural Change,Successful,0.7736001988385164,19
+232,Technology Change,Partially Successful,-0.4882490282993139,11
+233,Process Change,Successful,1.9996264356793212,20
+234,Technology Change,Partially Successful,0.5170596281169508,22
+235,Technology Change,Unsuccessful,0.7600991176032397,3
+236,Technology Change,Unsuccessful,1.1394144239956105,16
+237,Process Change,Unsuccessful,-0.495345084382925,22
+238,Process Change,Successful,1.6770007593432803,9
+239,Cultural Change,Unsuccessful,0.7958805433599156,23
+240,Cultural Change,Unsuccessful,-0.3374125797257672,19
+241,Cultural Change,Unsuccessful,1.0236187852658198,8
+242,Technology Change,Unsuccessful,1.5952936057135672,14
+243,Technology Change,Successful,1.360140352149588,5
+244,Cultural Change,Partially Successful,-0.3330143473131898,14
+245,Process Change,Partially Successful,0.44898075911009516,1
+246,Process Change,Partially Successful,-0.09389993161386123,23
+247,Process Change,Successful,-0.37503764731625794,7
+248,Process Change,Partially Successful,0.8958758308552202,1
+249,Technology Change,Partially Successful,0.37863502572897545,11
+250,Cultural Change,Partially Successful,0.11613360781148008,12
+251,Technology Change,Successful,0.3686332937969641,10
+252,Process Change,Unsuccessful,0.9641826692912834,2
+253,Cultural Change,Unsuccessful,-0.17674280534411763,17
+254,Cultural Change,Successful,0.6800970087636178,2
+255,Process Change,Successful,0.9541600537739627,23
+256,Technology Change,Successful,0.720040658793164,18
+257,Cultural Change,Unsuccessful,0.12653367683647598,1
+258,Technology Change,Partially Successful,-0.0022834259969340964,20
+259,Process Change,Partially Successful,1.8732660699057493,6
+260,Cultural Change,Successful,-0.2841353154287186,23
+261,Process Change,Partially Successful,0.656592402668366,8
+262,Cultural Change,Unsuccessful,1.5053737539539225,19
+263,Cultural Change,Unsuccessful,-0.019886831300881924,3
+264,Process Change,Successful,1.6753000303797663,13
+265,Cultural Change,Successful,1.9322473940204938,2
+266,Process Change,Partially Successful,-0.38081869063637735,5
+267,Cultural Change,Partially Successful,0.37667790339718255,21
+268,Cultural Change,Partially Successful,0.1768523010922578,8
+269,Process Change,Unsuccessful,0.7479521388242711,11
+270,Cultural Change,Unsuccessful,0.3599801387579833,9
+271,Cultural Change,Unsuccessful,0.5456651557042853,14
+272,Process Change,Unsuccessful,0.38547445216277754,22
+273,Technology Change,Successful,0.91926066641916,13
+274,Process Change,Partially Successful,-0.41216013392845263,9
+275,Process Change,Unsuccessful,0.6959482602334213,13
+276,Technology Change,Unsuccessful,0.31877044626211726,23
+277,Process Change,Unsuccessful,0.08573371558971299,11
+278,Technology Change,Unsuccessful,0.9755852492689403,13
+279,Process Change,Successful,1.61541097139563,16
+280,Process Change,Successful,1.6422854249094065,12
+281,Technology Change,Successful,1.3498276336276231,17
+282,Cultural Change,Unsuccessful,1.2711530445063346,19
+283,Technology Change,Unsuccessful,1.7022102405758006,19
+284,Process Change,Unsuccessful,1.5602361386404406,3
+285,Cultural Change,Partially Successful,-0.2288298590953884,1
+286,Cultural Change,Partially Successful,1.6543907322492655,5
+287,Process Change,Unsuccessful,0.5669690073738809,7
+288,Cultural Change,Partially Successful,0.7416021256670484,23
+289,Process Change,Unsuccessful,0.3985052089825327,22
+290,Process Change,Unsuccessful,1.8205265025201518,21
+291,Process Change,Partially Successful,1.0696870211655378,8
+292,Technology Change,Unsuccessful,0.3724480884248773,12
+293,Process Change,Partially Successful,1.3896148039203153,15
+294,Cultural Change,Partially Successful,-0.14765687607992473,18
+295,Process Change,Unsuccessful,0.8058491794721943,4
+296,Cultural Change,Unsuccessful,0.9163369612692123,16
+297,Cultural Change,Unsuccessful,1.6670369880959495,10
+298,Technology Change,Unsuccessful,-0.42638729831961053,23
+299,Cultural Change,Partially Successful,-0.427665797622455,15
+300,Technology Change,Unsuccessful,1.337239192426641,22
+301,Process Change,Successful,-0.1672530189055475,3
+302,Cultural Change,Unsuccessful,1.0697948672666566,3
+303,Technology Change,Successful,1.2382820455394787,22
+304,Cultural Change,Successful,0.6212967113750603,6
+305,Technology Change,Unsuccessful,1.150603166423272,16
+306,Process Change,Unsuccessful,-0.27962419103935887,13
+307,Process Change,Partially Successful,1.2554247853338365,13
+308,Cultural Change,Unsuccessful,1.4094957348276587,14
+309,Technology Change,Successful,1.6582522665934274,7
+310,Cultural Change,Successful,1.1804177782931482,15
+311,Cultural Change,Successful,0.8651846009886275,19
+312,Cultural Change,Successful,1.6976976047519474,9
+313,Technology Change,Successful,1.6109335022354787,11
+314,Technology Change,Unsuccessful,-0.08724412960573147,14
+315,Technology Change,Partially Successful,1.3015254666796918,2
+316,Process Change,Successful,1.9437615869654294,14
+317,Process Change,Partially Successful,0.9969381919120115,5
+318,Technology Change,Partially Successful,1.1682755379529741,17
+319,Process Change,Successful,-0.0783956007384613,9
+320,Process Change,Unsuccessful,1.3088011758989149,7
+321,Process Change,Partially Successful,1.2348898960116008,2
+322,Cultural Change,Partially Successful,1.7873618776720805,13
+323,Cultural Change,Successful,-0.22910947142992671,21
+324,Technology Change,Partially Successful,0.8857910596263812,18
+325,Process Change,Partially Successful,1.4511872341705643,12
+326,Cultural Change,Partially Successful,1.018075776259729,21
+327,Process Change,Unsuccessful,-0.042206751266003595,20
+328,Cultural Change,Partially Successful,-0.03389990610279542,18
+329,Process Change,Unsuccessful,0.13483210385107758,7
+330,Process Change,Partially Successful,1.871445873590035,6
+331,Technology Change,Successful,1.5178318897004126,13
+332,Process Change,Partially Successful,1.313510237794943,8
+333,Process Change,Unsuccessful,-0.47148343566640283,13
+334,Technology Change,Unsuccessful,0.9641060934260555,21
+335,Process Change,Successful,0.4828587329641658,7
+336,Process Change,Successful,0.09162186309376286,2
+337,Cultural Change,Unsuccessful,0.022022417485008328,1
+338,Process Change,Unsuccessful,0.3169861223408109,22
+339,Technology Change,Unsuccessful,1.1944546171429966,9
+340,Process Change,Unsuccessful,0.9922714371530819,3
+341,Process Change,Partially Successful,-0.33579184380522803,21
+342,Cultural Change,Successful,0.19746931383744493,16
+343,Process Change,Unsuccessful,0.5807406520621863,16
+344,Cultural Change,Partially Successful,0.8277034610937348,17
+345,Process Change,Partially Successful,-0.1761793866275536,14
+346,Technology Change,Partially Successful,-0.31330192494460574,17
+347,Cultural Change,Partially Successful,1.5617092944838658,4
+348,Cultural Change,Successful,1.1939934691042704,11
+349,Cultural Change,Partially Successful,0.5018867517606933,7
+350,Cultural Change,Successful,1.3695695430080574,2
+351,Cultural Change,Unsuccessful,1.1688588903044228,16
+352,Process Change,Partially Successful,1.558292467032619,21
+353,Process Change,Partially Successful,1.9195995870802216,2
+354,Process Change,Partially Successful,0.08258889722736429,14
+355,Process Change,Successful,1.9339873595091985,16
+356,Cultural Change,Partially Successful,1.4210185700528204,7
+357,Technology Change,Unsuccessful,0.3009027957335041,8
+358,Cultural Change,Partially Successful,1.9776377931504285,3
+359,Cultural Change,Unsuccessful,1.8231078252455193,13
+360,Technology Change,Successful,-0.4607249611267623,16
+361,Cultural Change,Unsuccessful,0.5187871886858213,23
+362,Process Change,Successful,0.24033939136141869,16
+363,Technology Change,Partially Successful,1.7131298712185958,13
+364,Process Change,Unsuccessful,-0.37167691355916893,18
+365,Cultural Change,Successful,1.8105433720477246,13
+366,Cultural Change,Unsuccessful,0.7507550231458016,21
+367,Process Change,Successful,-0.45360020152659564,21
+368,Process Change,Unsuccessful,1.8198979367317873,1
+369,Process Change,Partially Successful,0.39181031257930443,14
+370,Technology Change,Partially Successful,0.7300962581006831,5
+371,Cultural Change,Partially Successful,1.5059416707216595,17
+372,Technology Change,Partially Successful,-0.14069358955376265,1
+373,Cultural Change,Successful,0.5813182765644296,23
+374,Process Change,Successful,0.5025318587330503,2
+375,Technology Change,Partially Successful,1.4706557306377315,19
+376,Technology Change,Successful,1.9640258577558645,20
+377,Cultural Change,Successful,0.14330806326527679,10
+378,Process Change,Unsuccessful,0.3925491671121819,21
+379,Process Change,Partially Successful,1.3737324101469965,5
+380,Process Change,Unsuccessful,0.0934135998872705,9
+381,Cultural Change,Successful,0.42788460258516225,11
+382,Process Change,Partially Successful,0.6781943611929988,23
+383,Cultural Change,Partially Successful,-0.12342478650398347,6
+384,Cultural Change,Partially Successful,1.1945638518053665,3
+385,Cultural Change,Unsuccessful,0.9524260808839771,14
+386,Process Change,Unsuccessful,0.3714871182679127,16
+387,Process Change,Successful,1.8146554676152045,1
+388,Process Change,Unsuccessful,1.7058394502271512,11
+389,Technology Change,Unsuccessful,0.17154336348197763,10
+390,Process Change,Successful,1.323334926753171,1
+391,Process Change,Partially Successful,-0.4315176255734025,16
+392,Cultural Change,Unsuccessful,1.3297038410763566,9
+393,Cultural Change,Unsuccessful,1.33588488264139,5
+394,Process Change,Unsuccessful,-0.35836720848364934,23
+395,Technology Change,Unsuccessful,-0.37432028571886555,14
+396,Process Change,Successful,1.0925956238035543,19
+397,Process Change,Unsuccessful,0.9362010975581807,19
+398,Cultural Change,Unsuccessful,0.1805132673634775,22
+399,Cultural Change,Successful,1.1726703289594023,2
+400,Cultural Change,Successful,0.8596453645214872,16
+401,Process Change,Successful,1.9821051188298475,15
+402,Cultural Change,Partially Successful,0.998975835250469,5
+403,Technology Change,Unsuccessful,0.30191742412665523,3
+404,Technology Change,Successful,1.4798960735311968,16
+405,Cultural Change,Successful,-0.41526322415458045,11
+406,Technology Change,Successful,0.013646862567825657,21
+407,Technology Change,Successful,0.41640671337422985,1
+408,Process Change,Successful,1.370320162093413,19
+409,Cultural Change,Unsuccessful,1.2541923134146034,12
+410,Cultural Change,Unsuccessful,1.8375891116678749,8
+411,Technology Change,Partially Successful,0.8938301273136737,15
+412,Technology Change,Partially Successful,1.7600629134474604,8
+413,Cultural Change,Partially Successful,1.8327587223706252,19
+414,Process Change,Unsuccessful,-0.0564527585097081,16
+415,Technology Change,Partially Successful,0.27612509634105764,2
+416,Process Change,Unsuccessful,0.36644647314523204,6
+417,Technology Change,Partially Successful,1.3997191426005398,2
+418,Cultural Change,Partially Successful,-0.40129656898853544,4
+419,Technology Change,Unsuccessful,0.15131838905293726,7
+420,Cultural Change,Successful,1.142725637800111,23
+421,Technology Change,Unsuccessful,0.645224012125857,19
+422,Technology Change,Partially Successful,0.42991694155822036,22
+423,Process Change,Successful,0.8795530154187798,13
+424,Technology Change,Successful,0.10384197226959224,20
+425,Technology Change,Partially Successful,1.0140973362182895,22
+426,Technology Change,Successful,0.11102397406037234,2
+427,Process Change,Successful,1.8853323790610874,6
+428,Cultural Change,Successful,-0.4856147188012756,2
+429,Cultural Change,Successful,-0.22349256375107773,12
+430,Cultural Change,Partially Successful,1.2821757429440765,11
+431,Technology Change,Successful,1.5051860572194902,21
+432,Technology Change,Partially Successful,1.1394629935294158,9
+433,Cultural Change,Partially Successful,0.6344671282585934,18
+434,Process Change,Unsuccessful,1.8639387597524673,10
+435,Cultural Change,Partially Successful,1.7364638356856807,21
+436,Technology Change,Successful,0.02560765514478358,23
+437,Technology Change,Successful,1.8027101344238692,17
+438,Cultural Change,Successful,1.1725246476679,12
+439,Cultural Change,Successful,1.487035249686169,5
+440,Process Change,Successful,0.5108951886533197,6
+441,Technology Change,Successful,1.8901665106950487,17
+442,Process Change,Unsuccessful,0.7426994335403154,17
+443,Process Change,Partially Successful,0.7774073312570415,2
+444,Cultural Change,Unsuccessful,-0.46734583500073407,10
+445,Technology Change,Unsuccessful,1.5488364353649087,13
+446,Cultural Change,Successful,1.7445234499055617,13
+447,Cultural Change,Partially Successful,0.492405460254038,9
+448,Cultural Change,Unsuccessful,1.2515562113139787,14
+449,Process Change,Partially Successful,0.4827355057841678,22
+450,Cultural Change,Successful,0.2461867638107742,16
+451,Process Change,Partially Successful,0.27692256569555673,13
+452,Cultural Change,Successful,0.8770022019805264,18
+453,Technology Change,Partially Successful,0.4034608566878297,14
+454,Process Change,Successful,1.4807935072893612,16
+455,Cultural Change,Unsuccessful,0.6664186302808541,9
+456,Cultural Change,Successful,1.910318847767861,19
+457,Technology Change,Partially Successful,1.136531755830618,4
+458,Cultural Change,Successful,0.9291609613970544,17
+459,Process Change,Unsuccessful,1.615002302630379,3
+460,Technology Change,Unsuccessful,0.7391014670592029,10
+461,Cultural Change,Successful,1.7247322024036849,14
+462,Cultural Change,Partially Successful,0.915467713887322,5
+463,Technology Change,Successful,1.1321925916237001,19
+464,Process Change,Partially Successful,1.225878228860413,7
+465,Technology Change,Partially Successful,1.8484777164959811,10
+466,Technology Change,Successful,0.16075892826001592,7
+467,Technology Change,Unsuccessful,-0.030339312370549598,16
+468,Cultural Change,Successful,1.382417035162135,14
+469,Technology Change,Partially Successful,0.1847931425854461,2
+470,Cultural Change,Successful,1.205258756267756,7
+471,Process Change,Unsuccessful,0.7589615962508671,1
+472,Process Change,Unsuccessful,1.8698838663913966,6
+473,Cultural Change,Partially Successful,1.7629681455314095,20
+474,Technology Change,Successful,-0.01336351119001944,6
+475,Process Change,Partially Successful,-0.2090320491929763,6
+476,Process Change,Successful,1.9150650781712049,7
+477,Technology Change,Unsuccessful,-0.1970917266241416,21
+478,Technology Change,Successful,1.3911676380606846,19
+479,Process Change,Unsuccessful,0.16764995463051702,11
+480,Cultural Change,Unsuccessful,0.1545122215999175,6
+481,Process Change,Partially Successful,1.8132641652456711,17
+482,Technology Change,Partially Successful,0.21569475131592286,10
+483,Technology Change,Unsuccessful,0.42420522051765985,17
+484,Technology Change,Partially Successful,0.5354108103088924,7
+485,Process Change,Successful,0.31330295714731027,3
+486,Cultural Change,Successful,1.9754580637407573,19
+487,Process Change,Unsuccessful,0.12288396456958961,16
+488,Process Change,Unsuccessful,0.21187207072688163,8
+489,Process Change,Unsuccessful,-0.021187005001764958,10
+490,Cultural Change,Partially Successful,0.25934480489317524,22
+491,Cultural Change,Successful,-0.24300936486426933,18
+492,Process Change,Unsuccessful,1.19046828996718,1
+493,Process Change,Unsuccessful,1.4197995846751343,19
+494,Technology Change,Unsuccessful,1.9486964130118318,5
+495,Technology Change,Successful,-0.4747099585170812,6
+496,Cultural Change,Partially Successful,1.0324800582292617,13
+497,Process Change,Successful,1.8219188623360245,18
+498,Cultural Change,Unsuccessful,-0.1824106163074286,21
+499,Process Change,Unsuccessful,1.3535325379996945,14
+500,Technology Change,Successful,0.38211432637926546,22
+501,Technology Change,Unsuccessful,1.9305405090304841,14
+502,Technology Change,Unsuccessful,0.7110683489939871,5
+503,Cultural Change,Successful,-0.11102218874888975,4
+504,Cultural Change,Unsuccessful,1.3236040192525282,15
+505,Process Change,Partially Successful,1.6385371961343647,22
+506,Technology Change,Partially Successful,0.09448220862384527,4
+507,Process Change,Successful,0.1588444762874729,12
+508,Process Change,Unsuccessful,1.3260093553845491,22
+509,Cultural Change,Partially Successful,1.724038688108188,22
+510,Process Change,Partially Successful,0.01687973897171724,6
+511,Technology Change,Unsuccessful,1.557176259504328,19
+512,Technology Change,Successful,-0.12959844799130216,6
+513,Technology Change,Unsuccessful,1.9731061849786071,15
+514,Technology Change,Partially Successful,-0.010581105126507673,18
+515,Process Change,Partially Successful,1.3321874990073113,12
+516,Cultural Change,Successful,0.48010100269728784,23
+517,Process Change,Successful,-0.40254034978625464,15
+518,Technology Change,Partially Successful,-0.39921596685213234,5
+519,Technology Change,Partially Successful,1.7515218200830907,10
+520,Cultural Change,Successful,1.1267250065412109,19
+521,Process Change,Successful,1.4370212799552236,22
+522,Process Change,Unsuccessful,1.8914715164155238,7
+523,Cultural Change,Partially Successful,-0.25268162018718937,9
+524,Technology Change,Partially Successful,1.1544646824529272,12
+525,Cultural Change,Unsuccessful,1.5675600726931687,6
+526,Cultural Change,Unsuccessful,0.8309987822559244,13
+527,Technology Change,Successful,0.6834884112794752,2
+528,Cultural Change,Unsuccessful,-0.38731255117399094,22
+529,Technology Change,Partially Successful,1.053723123820854,19
+530,Cultural Change,Partially Successful,0.11656688839499685,13
+531,Cultural Change,Partially Successful,1.8104320287587408,12
+532,Technology Change,Successful,0.6693900137638691,5
+533,Technology Change,Successful,0.4203415865393658,21
+534,Cultural Change,Successful,0.2520746987797372,5
+535,Technology Change,Successful,-0.19768539338533214,14
+536,Process Change,Successful,1.0939422501192264,10
+537,Technology Change,Successful,0.15141764516935563,11
+538,Technology Change,Unsuccessful,1.431250890941327,15
+539,Cultural Change,Successful,0.95458674834597,2
+540,Process Change,Partially Successful,1.0519956829269193,7
+541,Process Change,Successful,0.9135964908353253,13
+542,Technology Change,Partially Successful,1.3198330127895856,2
+543,Cultural Change,Partially Successful,1.9219752831766437,1
+544,Cultural Change,Successful,1.047089978180144,2
+545,Process Change,Successful,1.4848987023553435,4
+546,Technology Change,Partially Successful,0.63496485174432,16
+547,Technology Change,Unsuccessful,-0.1944546618240207,2
+548,Technology Change,Successful,0.43772131666137826,16
+549,Cultural Change,Successful,-0.011856255281723183,23
+550,Technology Change,Unsuccessful,1.9799341181754624,13
+551,Technology Change,Partially Successful,1.4361096736222967,8
+552,Technology Change,Successful,0.6127452286488189,6
+553,Cultural Change,Successful,-0.41949253333287234,7
+554,Cultural Change,Unsuccessful,0.028407836164122235,5
+555,Technology Change,Successful,1.9928794042629971,20
+556,Cultural Change,Unsuccessful,1.9182941371302538,23
+557,Process Change,Successful,-0.49872187632726034,19
+558,Technology Change,Partially Successful,1.622351201946751,18
+559,Cultural Change,Successful,0.3070974667162081,17
+560,Cultural Change,Unsuccessful,-0.09196881777395455,13
+561,Process Change,Partially Successful,1.789049704313756,21
+562,Technology Change,Partially Successful,0.1255771036109279,22
+563,Technology Change,Successful,-0.05742590656021934,19
+564,Technology Change,Unsuccessful,0.2680790456283604,10
+565,Technology Change,Successful,-0.3666500212131211,14
+566,Cultural Change,Successful,1.49749805347296,8
+567,Cultural Change,Partially Successful,-0.05532820407556188,14
+568,Cultural Change,Successful,-0.14744333345659677,22
+569,Technology Change,Successful,1.1508088341354124,7
+570,Cultural Change,Partially Successful,0.29819698092203817,5
+571,Cultural Change,Partially Successful,0.23920458260572697,5
+572,Technology Change,Partially Successful,1.2816900622254495,7
+573,Cultural Change,Partially Successful,1.298129129323827,12
+574,Technology Change,Unsuccessful,1.484390722593561,16
+575,Process Change,Unsuccessful,1.4457483797278596,8
+576,Process Change,Successful,0.3588571701100456,18
+577,Process Change,Successful,1.3339302714012062,1
+578,Technology Change,Partially Successful,1.9921981382628124,13
+579,Cultural Change,Partially Successful,-0.46533728961859183,8
+580,Cultural Change,Successful,-0.26481238714744515,23
+581,Cultural Change,Partially Successful,0.2251108977584666,21
+582,Cultural Change,Partially Successful,1.179019933647266,9
+583,Process Change,Successful,0.2571675455046498,15
+584,Process Change,Unsuccessful,-0.48841789546760617,12
+585,Process Change,Unsuccessful,1.913653572582123,12
+586,Cultural Change,Partially Successful,0.016238399018212668,16
+587,Technology Change,Partially Successful,0.4763852922089522,3
+588,Cultural Change,Partially Successful,1.350583772952288,16
+589,Process Change,Unsuccessful,-0.06975092042485154,6
+590,Cultural Change,Successful,1.6988402705567398,5
+591,Technology Change,Partially Successful,0.7290527924791197,8
+592,Cultural Change,Successful,-0.0860051887215178,12
+593,Technology Change,Unsuccessful,0.5856404252373553,22
+594,Technology Change,Unsuccessful,-0.3679275577948175,4
+595,Cultural Change,Successful,1.095055369053731,2
+596,Cultural Change,Successful,1.6152663672777008,13
+597,Process Change,Partially Successful,0.13099903519209044,14
+598,Process Change,Successful,1.5162184119695619,1
+599,Cultural Change,Unsuccessful,0.29964467868847533,17
+600,Process Change,Successful,-0.06019421697527155,10
+601,Technology Change,Unsuccessful,1.5889803132818217,17
+602,Technology Change,Successful,1.8556796156738518,23
+603,Process Change,Partially Successful,0.4288548573987526,15
+604,Cultural Change,Unsuccessful,1.996570933665605,1
+605,Process Change,Successful,1.946976209245459,7
+606,Process Change,Unsuccessful,1.4429019595985801,12
+607,Process Change,Partially Successful,1.9896111869565858,20
+608,Process Change,Successful,1.7843389533659937,6
+609,Process Change,Partially Successful,1.2298095464086445,1
+610,Process Change,Partially Successful,-0.15142177617048846,17
+611,Process Change,Successful,0.7171955146000846,22
+612,Cultural Change,Partially Successful,-0.18270636727144113,12
+613,Technology Change,Successful,1.193544589579984,10
+614,Cultural Change,Successful,1.0666391762947,13
+615,Technology Change,Partially Successful,0.36133847666086283,23
+616,Cultural Change,Successful,1.8392651272411573,14
+617,Cultural Change,Partially Successful,1.2712586814283584,6
+618,Technology Change,Unsuccessful,1.3303531998376552,3
+619,Process Change,Partially Successful,-0.4852884747363224,8
+620,Technology Change,Unsuccessful,0.2734319405292087,8
+621,Technology Change,Unsuccessful,0.7948769874875168,22
+622,Technology Change,Unsuccessful,1.548313215310122,21
+623,Cultural Change,Unsuccessful,1.113743956043245,1
+624,Technology Change,Unsuccessful,0.43873006316757157,15
+625,Process Change,Unsuccessful,1.9539928366219255,14
+626,Process Change,Successful,0.21499389187037887,2
+627,Cultural Change,Unsuccessful,0.12153752109655735,12
+628,Process Change,Partially Successful,1.6444026046970253,1
+629,Cultural Change,Unsuccessful,0.18468979741902303,21
+630,Cultural Change,Partially Successful,0.19736337063907083,9
+631,Cultural Change,Unsuccessful,1.4448669715151399,12
+632,Technology Change,Unsuccessful,-0.377195239089831,20
+633,Technology Change,Unsuccessful,1.6694415029489096,23
+634,Technology Change,Unsuccessful,0.895051737132408,17
+635,Process Change,Successful,0.5200526287881644,9
+636,Process Change,Unsuccessful,0.8465636099994138,21
+637,Technology Change,Unsuccessful,-0.16299002941197138,22
+638,Process Change,Unsuccessful,1.1733491889587655,20
+639,Technology Change,Successful,-0.45332800777968485,18
+640,Technology Change,Successful,0.8601715653051971,16
+641,Technology Change,Successful,-0.20482151459255177,18
+642,Technology Change,Partially Successful,1.5637910249804596,2
+643,Process Change,Successful,1.6098720474351857,19
+644,Technology Change,Unsuccessful,0.5736346388253688,9
+645,Cultural Change,Unsuccessful,1.3104427300064174,10
+646,Process Change,Partially Successful,-0.29688233889485227,7
+647,Cultural Change,Unsuccessful,1.6960852774895145,5
+648,Technology Change,Partially Successful,1.7148489932926667,11
+649,Cultural Change,Unsuccessful,0.5920541757985909,14
+650,Cultural Change,Unsuccessful,-0.4073266093755144,19
+651,Process Change,Partially Successful,0.10921843460157854,23
+652,Process Change,Unsuccessful,0.755153687175864,16
+653,Process Change,Successful,-0.021678500490669828,2
+654,Technology Change,Successful,0.838188513686912,11
+655,Cultural Change,Partially Successful,0.928644957207257,4
+656,Process Change,Unsuccessful,1.655148762337657,19
+657,Technology Change,Successful,1.4431042958602838,14
+658,Cultural Change,Partially Successful,0.5382398974465965,12
+659,Technology Change,Successful,1.3663580507668383,2
+660,Process Change,Successful,0.7558652683463614,18
+661,Technology Change,Successful,1.3699924795394578,23
+662,Technology Change,Unsuccessful,1.3412984270363089,23
+663,Technology Change,Partially Successful,1.3706996854560698,11
+664,Process Change,Unsuccessful,0.36330624229501907,20
+665,Technology Change,Unsuccessful,0.3755782479194091,21
+666,Cultural Change,Unsuccessful,1.1154081814046428,5
+667,Technology Change,Unsuccessful,0.27456867315167677,23
+668,Technology Change,Unsuccessful,-0.2583916830198236,6
+669,Cultural Change,Successful,-0.03281494811278579,13
+670,Cultural Change,Unsuccessful,1.6021861638302202,19
+671,Technology Change,Successful,0.3865995853353328,9
+672,Technology Change,Successful,0.019362344436899992,4
+673,Process Change,Successful,-0.34929073492419677,18
+674,Technology Change,Partially Successful,1.2425716632324035,19
+675,Cultural Change,Partially Successful,0.16624715009790225,17
+676,Technology Change,Partially Successful,-0.20080386304245618,23
+677,Cultural Change,Unsuccessful,1.047413565489981,3
+678,Cultural Change,Partially Successful,0.30441557637877614,13
+679,Process Change,Partially Successful,0.06960663116465438,23
+680,Process Change,Successful,0.5679637113701119,8
+681,Process Change,Successful,0.01713761736791486,5
+682,Process Change,Partially Successful,-0.27773414326457285,2
+683,Cultural Change,Unsuccessful,1.658494291395427,13
+684,Cultural Change,Unsuccessful,0.6684646077487602,23
+685,Cultural Change,Unsuccessful,1.3179540279303557,1
+686,Technology Change,Unsuccessful,-0.39726296429491503,20
+687,Technology Change,Unsuccessful,0.7810345298219958,4
+688,Process Change,Successful,1.1057134617148359,17
+689,Technology Change,Partially Successful,1.974851091525193,9
+690,Process Change,Partially Successful,0.8941089386918559,9
+691,Cultural Change,Partially Successful,0.7015533282980917,22
+692,Technology Change,Successful,1.376253425785195,16
+693,Technology Change,Partially Successful,1.6271635639835926,16
+694,Technology Change,Successful,0.9191477105170245,11
+695,Technology Change,Partially Successful,1.4176022063011646,5
+696,Cultural Change,Successful,1.4057366909590245,1
+697,Technology Change,Successful,0.9290201436839407,9
+698,Technology Change,Unsuccessful,0.16921854756061772,20
+699,Technology Change,Unsuccessful,0.4279688865509774,18
+700,Cultural Change,Successful,0.1744465340905179,8
+701,Technology Change,Partially Successful,1.9886262093839369,2
+702,Technology Change,Unsuccessful,-0.173675984344908,21
+703,Process Change,Partially Successful,1.4654722778014841,21
+704,Cultural Change,Partially Successful,1.592490992350991,13
+705,Process Change,Successful,-0.3537965634699984,9
+706,Technology Change,Successful,0.5548972553899041,2
+707,Process Change,Unsuccessful,0.7601440699684108,4
+708,Cultural Change,Successful,0.23586166847181533,17
+709,Technology Change,Unsuccessful,1.1835703515323717,13
+710,Process Change,Partially Successful,1.2460907765883666,20
+711,Cultural Change,Unsuccessful,0.04627489776333582,23
+712,Cultural Change,Successful,1.4252528921056853,11
+713,Process Change,Partially Successful,0.19801380013519965,6
+714,Cultural Change,Partially Successful,1.321299159565333,20
+715,Technology Change,Successful,-0.3406727486107026,7
+716,Process Change,Partially Successful,-0.027693075656250288,1
+717,Cultural Change,Partially Successful,1.5604429783402747,4
+718,Cultural Change,Successful,1.3567434095162274,8
+719,Technology Change,Successful,1.0922262374880238,12
+720,Technology Change,Partially Successful,0.2539369369676139,7
+721,Cultural Change,Successful,1.5641530912914199,8
+722,Technology Change,Unsuccessful,0.4468042179650682,15
+723,Technology Change,Successful,1.4300897014846732,14
+724,Cultural Change,Successful,-0.013599608389263496,9
+725,Cultural Change,Unsuccessful,-0.07168846821504105,21
+726,Cultural Change,Successful,0.3461342149393053,1
+727,Technology Change,Unsuccessful,-0.33120325237240217,22
+728,Cultural Change,Partially Successful,1.8392107491766776,13
+729,Technology Change,Partially Successful,1.5531929813545262,14
+730,Cultural Change,Partially Successful,-0.1943099877657049,11
+731,Cultural Change,Unsuccessful,1.1807979064602299,7
+732,Process Change,Unsuccessful,1.9536200786623947,19
+733,Process Change,Successful,0.4266357207616762,19
+734,Process Change,Successful,1.6650442115101423,13
+735,Process Change,Unsuccessful,1.2251227612505544,6
+736,Cultural Change,Partially Successful,-0.004998891074906975,15
+737,Technology Change,Successful,1.1765834427464124,12
+738,Technology Change,Partially Successful,1.575887593917793,12
+739,Process Change,Successful,-0.07665478485581034,15
+740,Process Change,Successful,1.6186736344484554,6
+741,Process Change,Unsuccessful,-0.48242112856554453,20
+742,Technology Change,Partially Successful,0.937444367963062,2
+743,Process Change,Successful,0.8537486418954767,12
+744,Technology Change,Unsuccessful,1.3187603541404715,4
+745,Process Change,Partially Successful,1.7823420644422883,16
+746,Technology Change,Unsuccessful,1.852432056606581,6
+747,Cultural Change,Unsuccessful,0.6532116425361796,13
+748,Cultural Change,Partially Successful,-0.4608830658377681,1
+749,Process Change,Successful,1.4135871304810137,11
+750,Technology Change,Successful,1.4785679246534373,3
+751,Process Change,Successful,0.6909963793577836,17
+752,Cultural Change,Partially Successful,1.7121270154078845,15
+753,Cultural Change,Successful,1.9289872487371902,13
+754,Technology Change,Partially Successful,1.531113013831709,8
+755,Cultural Change,Unsuccessful,-0.06608836840785737,2
+756,Cultural Change,Unsuccessful,0.2655753669761436,16
+757,Process Change,Successful,1.5079205367079775,3
+758,Cultural Change,Successful,0.8598415024107302,6
+759,Cultural Change,Unsuccessful,0.9315390437899633,1
+760,Technology Change,Partially Successful,0.6357034477320791,14
+761,Process Change,Partially Successful,0.598235332681492,13
+762,Technology Change,Unsuccessful,0.6048304954268742,7
+763,Cultural Change,Partially Successful,0.6776173983117131,17
+764,Cultural Change,Partially Successful,0.26919439907941234,21
+765,Process Change,Partially Successful,-0.4515296940965889,21
+766,Cultural Change,Successful,0.3485353850841304,16
+767,Cultural Change,Successful,0.06225805816166674,17
+768,Cultural Change,Successful,-0.05700292836041798,2
+769,Cultural Change,Unsuccessful,0.07031977421027635,14
+770,Technology Change,Unsuccessful,-0.1085261576736497,11
+771,Process Change,Successful,0.7546941449767413,18
+772,Process Change,Partially Successful,-0.48389697036434154,8
+773,Technology Change,Unsuccessful,1.0464367576229439,21
+774,Cultural Change,Unsuccessful,0.7868298054771588,19
+775,Process Change,Unsuccessful,-0.1072732131466071,6
+776,Process Change,Unsuccessful,0.6561362885231707,11
+777,Technology Change,Successful,1.9977051744507515,15
+778,Cultural Change,Partially Successful,1.5986593394606543,2
+779,Process Change,Unsuccessful,0.21049181078457369,3
+780,Cultural Change,Successful,0.49655216761764787,11
+781,Cultural Change,Partially Successful,1.5337415466912985,15
+782,Process Change,Partially Successful,1.4408805182404099,4
+783,Cultural Change,Partially Successful,-0.4122301466981727,7
+784,Cultural Change,Unsuccessful,0.04310460497907864,10
+785,Cultural Change,Partially Successful,0.37070239398270133,8
+786,Process Change,Successful,-0.3203262154994636,23
+787,Process Change,Unsuccessful,-0.3590983615054459,15
+788,Cultural Change,Unsuccessful,1.7773267388345713,8
+789,Technology Change,Unsuccessful,-0.12396532677284144,3
+790,Process Change,Successful,-0.47608411725376315,5
+791,Process Change,Successful,1.1663187737930545,17
+792,Process Change,Unsuccessful,0.3440417940487479,22
+793,Process Change,Unsuccessful,0.051270294509375924,10
+794,Cultural Change,Partially Successful,0.39357987161217367,14
+795,Technology Change,Successful,0.23762103089820696,20
+796,Process Change,Successful,-0.4616446758850108,16
+797,Cultural Change,Unsuccessful,0.04602913482796722,18
+798,Process Change,Successful,-0.1411868185794411,2
+799,Cultural Change,Successful,-0.2933535932109639,11
+800,Cultural Change,Successful,1.4993394251463101,16
+801,Technology Change,Unsuccessful,0.1490790699753074,22
+802,Technology Change,Successful,0.4314870744845347,19
+803,Technology Change,Successful,0.5355240958797098,23
+804,Technology Change,Successful,0.9453859710882078,15
+805,Process Change,Successful,-0.08991752851057672,2
+806,Process Change,Partially Successful,0.2691132881654814,8
+807,Cultural Change,Partially Successful,-0.12626797767246772,11
+808,Process Change,Partially Successful,0.7071981051832126,23
+809,Cultural Change,Partially Successful,1.6539085455512539,2
+810,Technology Change,Unsuccessful,1.6279808557397253,1
+811,Technology Change,Unsuccessful,-0.32181504770372305,17
+812,Cultural Change,Unsuccessful,0.43996917498853616,3
+813,Technology Change,Partially Successful,0.20703897138031435,12
+814,Technology Change,Successful,-0.33716933178222286,20
+815,Technology Change,Unsuccessful,0.9220307391925389,2
+816,Process Change,Successful,1.9948458382130791,20
+817,Cultural Change,Unsuccessful,1.9838682272184651,15
+818,Cultural Change,Partially Successful,-0.04891130106349545,12
+819,Technology Change,Partially Successful,0.6445707434481593,20
+820,Process Change,Unsuccessful,1.9592660337111312,5
+821,Process Change,Successful,1.0741159710012864,3
+822,Cultural Change,Partially Successful,1.0687599328299606,1
+823,Process Change,Unsuccessful,0.4628001626486873,4
+824,Cultural Change,Unsuccessful,1.961356034617466,17
+825,Process Change,Unsuccessful,0.31145460626837196,22
+826,Cultural Change,Successful,0.4462446996167353,6
+827,Process Change,Partially Successful,1.2910733518389341,9
+828,Cultural Change,Successful,-0.1421724149160512,20
+829,Cultural Change,Unsuccessful,0.8388705608983276,20
+830,Technology Change,Partially Successful,1.065657906524098,3
+831,Cultural Change,Unsuccessful,-0.43352286962990105,4
+832,Cultural Change,Partially Successful,1.1306971018700402,19
+833,Technology Change,Unsuccessful,-0.41822965251951516,7
+834,Process Change,Successful,0.2742668246124801,14
+835,Cultural Change,Partially Successful,0.7464787001634874,15
+836,Technology Change,Unsuccessful,-0.3566207673272438,4
+837,Process Change,Unsuccessful,1.0645563239602922,9
+838,Cultural Change,Partially Successful,0.09859201717758292,9
+839,Cultural Change,Unsuccessful,0.0956306564966043,9
+840,Process Change,Successful,1.371198399077846,11
+841,Cultural Change,Unsuccessful,1.6127650584128017,18
+842,Technology Change,Partially Successful,1.1557460756775002,16
+843,Process Change,Unsuccessful,-0.3565960255718027,23
+844,Process Change,Partially Successful,0.10373750968605844,14
+845,Process Change,Unsuccessful,-0.28280697924118564,4
+846,Process Change,Successful,0.7055319024256061,22
+847,Technology Change,Successful,0.7007761558240562,19
+848,Cultural Change,Unsuccessful,0.6387609873648445,3
+849,Technology Change,Successful,-0.41992659782188146,15
+850,Technology Change,Partially Successful,0.6217123099098898,16
+851,Technology Change,Unsuccessful,0.44733300764997475,10
+852,Technology Change,Partially Successful,-0.20939295213338355,23
+853,Process Change,Partially Successful,0.3392636162628597,22
+854,Process Change,Unsuccessful,1.4726752649013393,16
+855,Technology Change,Successful,0.6257883920292631,20
+856,Technology Change,Partially Successful,0.5851734085217632,5
+857,Technology Change,Partially Successful,1.5796468849726573,9
+858,Technology Change,Partially Successful,0.3572241846401305,18
+859,Cultural Change,Unsuccessful,0.05576627210565277,12
+860,Cultural Change,Partially Successful,0.15784246589723616,7
+861,Cultural Change,Partially Successful,1.0612358288381958,20
+862,Process Change,Successful,-0.3290161990650063,3
+863,Technology Change,Partially Successful,1.3669526013399866,4
+864,Process Change,Partially Successful,0.034808769406950546,12
+865,Process Change,Successful,-0.008939242030869654,6
+866,Process Change,Successful,1.47274447461535,14
+867,Technology Change,Unsuccessful,0.23120836929418842,22
+868,Technology Change,Unsuccessful,1.8799298096554353,4
+869,Technology Change,Successful,-0.30070995651215027,8
+870,Technology Change,Unsuccessful,1.1268238679594575,4
+871,Cultural Change,Successful,1.1527952216516404,1
+872,Process Change,Partially Successful,1.1392083703897933,14
+873,Cultural Change,Successful,0.4711808848176575,16
+874,Technology Change,Successful,1.9026558639280258,19
+875,Process Change,Successful,0.05753558973694162,8
+876,Cultural Change,Successful,0.28802999214647174,16
+877,Technology Change,Partially Successful,0.5980262588185243,3
+878,Technology Change,Unsuccessful,-0.018397013915469163,6
+879,Cultural Change,Successful,1.7566387771098415,11
+880,Cultural Change,Successful,0.38147968703849666,21
+881,Cultural Change,Unsuccessful,1.3997122337585484,6
+882,Cultural Change,Successful,0.7960391338026842,10
+883,Process Change,Successful,-0.12685053145595493,7
+884,Technology Change,Partially Successful,1.1794713076539645,17
+885,Cultural Change,Partially Successful,-0.25106350895366597,14
+886,Cultural Change,Successful,1.5824434103294656,6
+887,Cultural Change,Unsuccessful,0.4072839420801362,11
+888,Cultural Change,Successful,1.564838727914633,23
+889,Cultural Change,Successful,0.9386222132016944,5
+890,Cultural Change,Unsuccessful,0.7148794551648503,14
+891,Technology Change,Unsuccessful,-0.24725566605114252,11
+892,Cultural Change,Unsuccessful,0.5215295358980392,2
+893,Cultural Change,Successful,1.2412889321316447,18
+894,Process Change,Unsuccessful,1.0434237332115985,13
+895,Process Change,Successful,0.570112259192564,8
+896,Process Change,Partially Successful,-0.33478059473990335,22
+897,Cultural Change,Partially Successful,0.2636015598324162,16
+898,Process Change,Partially Successful,-0.3514852037358597,6
+899,Technology Change,Successful,-0.008947349266633209,10
+900,Process Change,Successful,0.7242079786596087,23
+901,Cultural Change,Successful,-0.34980848795196845,22
+902,Technology Change,Unsuccessful,-0.40914009411458296,9
+903,Process Change,Unsuccessful,0.4483737108383755,1
+904,Cultural Change,Partially Successful,1.3365424673853479,10
+905,Process Change,Partially Successful,0.6811428132864001,1
+906,Process Change,Unsuccessful,1.2005038561142807,12
+907,Technology Change,Successful,-0.09503632203656809,20
+908,Technology Change,Unsuccessful,1.8049908944438062,2
+909,Cultural Change,Partially Successful,1.141387925352833,2
+910,Cultural Change,Unsuccessful,-0.0019346869099119424,20
+911,Process Change,Unsuccessful,0.21090689364300907,11
+912,Technology Change,Partially Successful,-0.2833210310340085,5
+913,Cultural Change,Partially Successful,0.5886458389208755,4
+914,Cultural Change,Successful,1.5701169442198277,20
+915,Process Change,Partially Successful,-0.06795304389892659,13
+916,Technology Change,Unsuccessful,0.987387430875897,6
+917,Cultural Change,Unsuccessful,0.14501180152014947,12
+918,Cultural Change,Successful,0.9806940303202554,7
+919,Cultural Change,Unsuccessful,1.4265584888932608,4
+920,Technology Change,Unsuccessful,-0.21078404162379727,4
+921,Process Change,Successful,0.8782195375568584,6
+922,Process Change,Partially Successful,1.6514550854950847,22
+923,Process Change,Unsuccessful,1.417244560904667,14
+924,Process Change,Partially Successful,0.3280845399426967,21
+925,Cultural Change,Successful,-0.2965161669353937,7
+926,Cultural Change,Partially Successful,-0.015309285701852304,20
+927,Cultural Change,Partially Successful,0.4029829060600527,19
+928,Process Change,Successful,0.44912009106403095,23
+929,Technology Change,Successful,1.1041396171633238,4
+930,Technology Change,Successful,0.29037691129590226,13
+931,Technology Change,Partially Successful,-0.3723692873544294,11
+932,Technology Change,Unsuccessful,1.5150223987353177,16
+933,Cultural Change,Partially Successful,1.3983591148210603,13
+934,Technology Change,Partially Successful,0.39454800734034834,7
+935,Process Change,Unsuccessful,-0.1355771044856109,20
+936,Technology Change,Successful,1.6486907942303026,7
+937,Technology Change,Unsuccessful,-0.4574077878996317,2
+938,Process Change,Successful,-0.387728310112682,4
+939,Cultural Change,Unsuccessful,-0.4553663907048462,3
+940,Technology Change,Partially Successful,1.1923770215505938,21
+941,Cultural Change,Partially Successful,-0.0864640594948286,10
+942,Technology Change,Partially Successful,0.5121799594746679,14
+943,Process Change,Unsuccessful,-0.46703982732066673,21
+944,Process Change,Unsuccessful,0.11264652808296627,12
+945,Cultural Change,Successful,0.14750539785491967,20
+946,Technology Change,Successful,1.656586418872994,21
+947,Process Change,Successful,0.02783916947283127,11
+948,Process Change,Unsuccessful,0.1686736683043557,4
+949,Process Change,Partially Successful,1.633162250266686,6
+950,Technology Change,Successful,0.756047817316809,20
+951,Technology Change,Partially Successful,1.4665606152720694,7
+952,Cultural Change,Unsuccessful,0.2343239348435715,21
+953,Technology Change,Unsuccessful,0.12430937674937514,7
+954,Process Change,Partially Successful,-0.26349029584547806,16
+955,Cultural Change,Partially Successful,0.05002894877294062,15
+956,Process Change,Unsuccessful,-0.24821109529225654,2
+957,Technology Change,Partially Successful,-0.17061980700242824,20
+958,Process Change,Unsuccessful,0.7479971976389426,3
+959,Technology Change,Partially Successful,-0.46779163602961343,10
+960,Cultural Change,Successful,-0.28467752362614435,11
+961,Cultural Change,Partially Successful,1.218737252524639,2
+962,Technology Change,Successful,0.8084322151589647,4
+963,Technology Change,Partially Successful,0.9730461034148119,8
+964,Process Change,Successful,0.17849708863513802,11
+965,Process Change,Unsuccessful,1.798730231663137,11
+966,Cultural Change,Successful,0.23998707509681205,16
+967,Process Change,Successful,0.12224740195966821,10
+968,Process Change,Unsuccessful,-0.05756413435119051,9
+969,Process Change,Successful,1.381769985060484,10
+970,Process Change,Successful,-0.46412117518349655,6
+971,Process Change,Unsuccessful,1.460533602868353,5
+972,Process Change,Unsuccessful,0.8980593358069098,7
+973,Cultural Change,Successful,0.3323126964463692,13
+974,Process Change,Unsuccessful,-0.10862917853042814,4
+975,Cultural Change,Partially Successful,-0.4327067953360354,22
+976,Technology Change,Successful,0.6875690760488462,4
+977,Technology Change,Successful,-0.48350636252255064,13
+978,Process Change,Unsuccessful,0.15154770205219514,19
+979,Process Change,Partially Successful,0.6949407453176097,16
+980,Cultural Change,Successful,1.3017553738103094,19
+981,Technology Change,Unsuccessful,0.06687124693560353,3
+982,Cultural Change,Partially Successful,0.8246403059384027,7
+983,Technology Change,Partially Successful,1.1629170429048636,6
+984,Cultural Change,Partially Successful,0.6883348731416259,6
+985,Cultural Change,Successful,0.08069864027974816,3
+986,Process Change,Partially Successful,-0.2897748309433272,8
+987,Cultural Change,Partially Successful,1.8338067176099115,1
+988,Process Change,Successful,-0.1640631689421294,9
+989,Technology Change,Successful,0.27359602579706066,22
+990,Cultural Change,Partially Successful,0.24574630917131546,21
+991,Cultural Change,Partially Successful,0.6913427594077743,9
+992,Cultural Change,Unsuccessful,-0.27208720361246536,8
+993,Cultural Change,Unsuccessful,0.9860231580941572,16
+994,Cultural Change,Successful,0.9001121839314026,14
+995,Cultural Change,Unsuccessful,0.43387345555400714,16
+996,Process Change,Unsuccessful,0.9022115286989867,13
+997,Cultural Change,Successful,1.9758571226803068,9
+998,Process Change,Successful,0.5732673095254106,19
+999,Cultural Change,Successful,0.8832643764243824,21
+1000,Technology Change,Partially Successful,1.230141561202159,17
+1001,Process Change,Unsuccessful,-0.4435452674535829,18
+1002,Cultural Change,Unsuccessful,0.11062600164553205,15
+1003,Cultural Change,Successful,-0.3949134573221556,17
+1004,Process Change,Partially Successful,-0.189464398087968,6
+1005,Technology Change,Partially Successful,1.1026189259342407,13
+1006,Cultural Change,Partially Successful,0.24536097388548495,19
+1007,Cultural Change,Partially Successful,0.08027896875930407,15
+1008,Process Change,Successful,0.0017147224576018472,11
+1009,Process Change,Unsuccessful,0.22199173099381642,13
+1010,Technology Change,Unsuccessful,-0.14167406940890287,16
+1011,Process Change,Partially Successful,0.7675831969828635,22
+1012,Process Change,Unsuccessful,-0.02772496831511162,3
+1013,Process Change,Partially Successful,0.916973793054005,7
+1014,Cultural Change,Successful,0.6743787010108051,17
+1015,Technology Change,Successful,1.3498222711285304,11
+1016,Process Change,Unsuccessful,0.36834476506311653,10
+1017,Technology Change,Unsuccessful,0.10560645069772934,1
+1018,Process Change,Successful,0.30876490908696663,2
+1019,Technology Change,Partially Successful,1.3279204740180213,13
+1020,Process Change,Successful,1.2471891227554863,8
+1021,Process Change,Partially Successful,0.16854146009585258,3
+1022,Cultural Change,Unsuccessful,0.20883759590128248,18
+1023,Process Change,Partially Successful,-0.053301966600171724,4
+1024,Cultural Change,Unsuccessful,-0.08692801051794607,13
+1025,Cultural Change,Partially Successful,0.6020432416946255,16
+1026,Cultural Change,Unsuccessful,0.309703112551019,10
+1027,Technology Change,Unsuccessful,1.813024435843655,18
+1028,Technology Change,Unsuccessful,0.18958972075071312,16
+1029,Technology Change,Unsuccessful,1.9751692335403082,12
+1030,Process Change,Unsuccessful,0.9921584680191038,20
+1031,Process Change,Partially Successful,1.1419473567852574,20
+1032,Cultural Change,Successful,1.7731660130023141,19
+1033,Technology Change,Unsuccessful,0.6060626727848617,23
+1034,Process Change,Successful,0.8814360818891251,21
+1035,Process Change,Unsuccessful,1.1393493616061685,3
+1036,Process Change,Unsuccessful,-0.2099537075520101,4
+1037,Cultural Change,Successful,0.4389891098133274,11
+1038,Process Change,Unsuccessful,1.4702740643123882,6
+1039,Cultural Change,Partially Successful,1.9384327693919232,15
+1040,Cultural Change,Successful,0.48251863436881304,8
+1041,Technology Change,Unsuccessful,0.734991801395215,23
+1042,Cultural Change,Successful,1.812460176483512,22
+1043,Technology Change,Partially Successful,1.6632352131976011,12
+1044,Technology Change,Partially Successful,1.325324016160793,10
+1045,Process Change,Unsuccessful,-0.030944184901399552,8
+1046,Process Change,Partially Successful,0.6666583277746898,12
+1047,Technology Change,Successful,1.8150230546818977,16
+1048,Cultural Change,Successful,1.995119465409064,5
+1049,Cultural Change,Unsuccessful,0.8540921110446416,5
+1050,Technology Change,Successful,0.6088465367754898,16
+1051,Technology Change,Unsuccessful,1.9009865305871503,8
+1052,Cultural Change,Partially Successful,1.288203603753458,22
+1053,Cultural Change,Unsuccessful,1.937102548275074,18
+1054,Technology Change,Partially Successful,1.2787090721199605,11
+1055,Technology Change,Successful,0.4368753278898392,22
+1056,Cultural Change,Unsuccessful,1.985634084858304,23
+1057,Process Change,Partially Successful,0.044699195961342864,22
+1058,Process Change,Unsuccessful,0.3503652861697195,13
+1059,Process Change,Unsuccessful,0.9567075849722897,4
+1060,Process Change,Successful,1.0360212917822245,6
+1061,Process Change,Successful,0.6160630740099851,3
+1062,Cultural Change,Successful,-0.439269703169053,7
+1063,Cultural Change,Partially Successful,0.8863055210824937,21
+1064,Technology Change,Unsuccessful,1.028017163125068,5
+1065,Technology Change,Partially Successful,-0.296758210768996,4
+1066,Technology Change,Unsuccessful,-0.2503423897414185,4
+1067,Process Change,Partially Successful,1.622347200141606,12
+1068,Cultural Change,Unsuccessful,-0.42514922658384313,13
+1069,Cultural Change,Unsuccessful,0.972637482684001,22
+1070,Process Change,Unsuccessful,0.5447590256170589,21
+1071,Process Change,Partially Successful,1.4801828912133295,8
+1072,Technology Change,Partially Successful,1.6359942476708684,2
+1073,Cultural Change,Partially Successful,1.5583924509958718,12
+1074,Technology Change,Successful,1.3199111705308824,17
+1075,Technology Change,Partially Successful,-0.421736039284573,23
+1076,Technology Change,Unsuccessful,1.9605465343038162,19
+1077,Process Change,Partially Successful,0.8771133088408503,22
+1078,Technology Change,Unsuccessful,0.5327987855294092,3
+1079,Cultural Change,Partially Successful,1.6736877570475812,14
+1080,Cultural Change,Unsuccessful,0.3269299851440298,4
+1081,Technology Change,Partially Successful,1.8603447832837916,17
+1082,Technology Change,Unsuccessful,1.7194514543055668,11
+1083,Technology Change,Unsuccessful,1.1123329979632037,7
+1084,Technology Change,Unsuccessful,1.7859920307356094,16
+1085,Cultural Change,Unsuccessful,1.5593751961934283,9
+1086,Process Change,Partially Successful,1.1475304801153041,15
+1087,Cultural Change,Successful,1.3826276341900159,12
+1088,Technology Change,Successful,0.2191474690046571,23
+1089,Cultural Change,Partially Successful,1.339371955740756,17
+1090,Process Change,Unsuccessful,0.06270709828811238,15
+1091,Process Change,Successful,-0.3138730517526393,13
+1092,Technology Change,Successful,0.32577215183619435,2
+1093,Cultural Change,Successful,-0.2678802731624234,12
+1094,Process Change,Successful,0.51148755838666,3
+1095,Process Change,Unsuccessful,0.6776663972008956,18
+1096,Cultural Change,Successful,1.710158602632343,2
+1097,Technology Change,Unsuccessful,1.1041215976976642,8
+1098,Process Change,Successful,-0.48847727760480086,20
+1099,Process Change,Successful,0.7011043433591468,19
+1100,Technology Change,Partially Successful,1.7213736045530563,5
+1101,Technology Change,Unsuccessful,-0.010434961832492373,7
+1102,Cultural Change,Successful,1.4019531359694006,18
+1103,Technology Change,Successful,0.9660135968301216,10
+1104,Cultural Change,Successful,1.0993629481169969,4
+1105,Cultural Change,Partially Successful,1.9549282144503906,9
+1106,Process Change,Unsuccessful,-0.218872943512869,20
+1107,Cultural Change,Unsuccessful,-0.4252314236200734,9
+1108,Cultural Change,Successful,0.6438229012494985,22
+1109,Process Change,Successful,-0.37231265674451436,17
+1110,Technology Change,Unsuccessful,0.37989001910586284,23
+1111,Technology Change,Partially Successful,1.2788437934809351,21
+1112,Technology Change,Partially Successful,-0.21139659388077225,3
+1113,Cultural Change,Successful,-0.0035916219780866565,15
+1114,Cultural Change,Successful,1.0504998663335015,6
+1115,Technology Change,Unsuccessful,1.867486722897115,13
+1116,Cultural Change,Successful,1.2828690008403454,5
+1117,Process Change,Successful,1.4538002188549877,16
+1118,Process Change,Partially Successful,1.6692701053155212,3
+1119,Cultural Change,Partially Successful,0.12251324989140566,11
+1120,Cultural Change,Successful,1.8725469471907563,5
+1121,Cultural Change,Partially Successful,0.18854375708404414,10
+1122,Process Change,Unsuccessful,-0.34267021454876656,5
+1123,Process Change,Unsuccessful,-0.3386141011599784,23
+1124,Technology Change,Successful,0.3743322306013235,17
+1125,Process Change,Unsuccessful,-0.24344530627288014,5
+1126,Process Change,Unsuccessful,-0.036990737956862474,12
+1127,Process Change,Unsuccessful,1.4667704660540666,1
+1128,Cultural Change,Successful,0.9572178926643637,9
+1129,Cultural Change,Partially Successful,1.4734417856692041,10
+1130,Cultural Change,Unsuccessful,1.9054423885982326,19
+1131,Cultural Change,Successful,0.42357784529113474,19
+1132,Process Change,Unsuccessful,-0.26507706563814637,4
+1133,Technology Change,Successful,-0.3476911218230134,16
+1134,Process Change,Partially Successful,1.2202425564380714,14
+1135,Cultural Change,Partially Successful,0.5986895983328209,18
+1136,Technology Change,Partially Successful,0.40490125553102596,11
+1137,Process Change,Successful,1.8122740038729033,23
+1138,Technology Change,Successful,0.2591539310162001,16
+1139,Technology Change,Unsuccessful,1.0752602997948428,12
+1140,Technology Change,Unsuccessful,0.331662279540043,20
+1141,Technology Change,Unsuccessful,1.4051892436126039,17
+1142,Cultural Change,Partially Successful,0.8808235644225288,7
+1143,Technology Change,Partially Successful,1.6288421666670647,3
+1144,Cultural Change,Unsuccessful,-0.4052452890057316,16
+1145,Process Change,Successful,0.267807775521143,23
+1146,Cultural Change,Successful,0.22857697224507434,16
+1147,Technology Change,Unsuccessful,1.0019732144793418,11
+1148,Cultural Change,Unsuccessful,1.950145191526797,2
+1149,Cultural Change,Successful,1.5860413308697736,21
+1150,Process Change,Unsuccessful,-0.12031275502082561,22
+1151,Process Change,Unsuccessful,-0.12107722552885902,6
+1152,Technology Change,Unsuccessful,1.9140041288536591,4
+1153,Cultural Change,Successful,-0.3147284970615187,22
+1154,Process Change,Partially Successful,-0.4683643360043811,1
+1155,Process Change,Unsuccessful,-0.23671263002404141,20
+1156,Cultural Change,Partially Successful,0.9494158991681823,3
+1157,Cultural Change,Partially Successful,0.2987348160411101,20
+1158,Process Change,Successful,1.8422175034463324,14
+1159,Process Change,Successful,0.4001056380228747,3
+1160,Cultural Change,Unsuccessful,1.115082004878107,19
+1161,Process Change,Successful,0.678989363591529,21
+1162,Cultural Change,Successful,1.5281064249722838,13
+1163,Process Change,Unsuccessful,1.1328723234493796,15
+1164,Cultural Change,Partially Successful,0.4653246369810248,18
+1165,Process Change,Partially Successful,0.7379460758788157,6
+1166,Process Change,Successful,0.41521106001383024,16
+1167,Cultural Change,Successful,1.160735409041478,8
+1168,Process Change,Successful,-0.014773553217092117,19
+1169,Cultural Change,Successful,1.2392082324599283,4
+1170,Process Change,Partially Successful,-0.18729107078738855,2
+1171,Technology Change,Partially Successful,-0.1648877887334783,21
+1172,Technology Change,Partially Successful,0.8058671891552709,15
+1173,Process Change,Successful,1.6206925663102654,9
+1174,Process Change,Unsuccessful,1.6165552682992859,3
+1175,Cultural Change,Successful,-0.44344645483795087,13
+1176,Cultural Change,Successful,-0.1908762464444101,23
+1177,Technology Change,Unsuccessful,-0.3004205674248879,5
+1178,Cultural Change,Successful,0.7721211706991853,4
+1179,Process Change,Partially Successful,0.8969960338794469,7
+1180,Process Change,Successful,1.7375105522779708,3
+1181,Cultural Change,Successful,1.1301752831954877,18
+1182,Cultural Change,Partially Successful,0.2637221763778377,18
+1183,Technology Change,Unsuccessful,0.5072112347267972,1
+1184,Cultural Change,Partially Successful,0.9747238158887086,15
+1185,Cultural Change,Partially Successful,-0.47455716187957586,8
+1186,Cultural Change,Successful,1.6598000050696102,9
+1187,Cultural Change,Unsuccessful,1.1843812193171241,12
+1188,Process Change,Partially Successful,1.8298649078890126,16
+1189,Process Change,Successful,0.7000901527860424,11
+1190,Technology Change,Successful,1.226680814768321,23
+1191,Process Change,Successful,0.19272586855971596,9
+1192,Cultural Change,Unsuccessful,0.5134050139558721,5
+1193,Cultural Change,Unsuccessful,0.726092864782782,11
+1194,Cultural Change,Partially Successful,1.6417560377298042,13
+1195,Process Change,Unsuccessful,-0.1746996229163773,19
+1196,Process Change,Unsuccessful,-0.17613636189309817,3
+1197,Cultural Change,Unsuccessful,-0.4326809309581787,3
+1198,Cultural Change,Successful,-0.06364686648422474,14
+1199,Process Change,Partially Successful,0.9121450487494656,3
+1200,Cultural Change,Unsuccessful,-0.2824543724248425,21
+1201,Process Change,Partially Successful,1.009386099555181,19
+1202,Process Change,Unsuccessful,0.8303685937097633,10
+1203,Process Change,Partially Successful,0.8865612550780155,19
+1204,Technology Change,Successful,1.1096657064827808,19
+1205,Process Change,Partially Successful,-0.09148917006640261,10
+1206,Process Change,Unsuccessful,-0.31292708116682205,3
+1207,Technology Change,Partially Successful,1.5913359543080858,12
+1208,Process Change,Partially Successful,0.2174552664128817,14
+1209,Technology Change,Partially Successful,1.94774093512055,6
+1210,Cultural Change,Partially Successful,-0.3792303428641817,8
+1211,Technology Change,Successful,1.7825509460621496,22
+1212,Cultural Change,Partially Successful,0.4747420552906185,20
+1213,Cultural Change,Unsuccessful,1.9635618411289961,18
+1214,Process Change,Successful,1.7781939793770674,16
+1215,Process Change,Successful,1.934364471543728,20
+1216,Cultural Change,Successful,0.5759072477110279,13
+1217,Process Change,Partially Successful,0.4358064695359214,17
+1218,Technology Change,Partially Successful,1.4113317915347032,11
+1219,Process Change,Partially Successful,0.3445971061977233,5
+1220,Process Change,Successful,1.2393665432762564,11
+1221,Cultural Change,Partially Successful,0.0360554969026865,13
+1222,Cultural Change,Partially Successful,1.382126162674735,13
+1223,Technology Change,Unsuccessful,0.15647403024316464,11
+1224,Technology Change,Unsuccessful,1.1329613085736385,1
+1225,Cultural Change,Partially Successful,0.08809940823481877,19
+1226,Technology Change,Partially Successful,-0.0456651352322594,10
+1227,Process Change,Successful,-0.24217826166981993,12
+1228,Technology Change,Unsuccessful,0.8623650354434493,10
+1229,Technology Change,Partially Successful,1.597007299571239,1
+1230,Process Change,Partially Successful,0.8222903762472813,13
+1231,Cultural Change,Partially Successful,1.3024350175486525,1
+1232,Technology Change,Successful,0.8411535378697077,15
+1233,Technology Change,Unsuccessful,-0.16609945411819826,20
+1234,Process Change,Partially Successful,1.1467027078561478,6
+1235,Cultural Change,Partially Successful,0.4605343978959293,1
+1236,Process Change,Unsuccessful,0.6393469895932298,6
+1237,Technology Change,Partially Successful,1.2383036222053723,18
+1238,Technology Change,Unsuccessful,-0.47256841541375255,9
+1239,Cultural Change,Unsuccessful,1.7997884832200297,21
+1240,Cultural Change,Successful,0.7276045131594415,15
+1241,Cultural Change,Partially Successful,0.40807256226073196,12
+1242,Process Change,Successful,-0.0010702250927800416,19
+1243,Process Change,Unsuccessful,0.3588093416600162,5
+1244,Process Change,Unsuccessful,-0.1500543770997843,22
+1245,Technology Change,Unsuccessful,0.4447997215464956,16
+1246,Technology Change,Successful,0.4451544099887821,8
+1247,Technology Change,Partially Successful,1.9391686127388494,5
+1248,Cultural Change,Partially Successful,-0.16872844991737423,21
+1249,Process Change,Successful,1.2310202482807027,6
+1250,Technology Change,Unsuccessful,0.22033664090235483,21
+1251,Process Change,Successful,0.7182790298264332,1
+1252,Technology Change,Successful,0.7013935041863686,23
+1253,Process Change,Partially Successful,-0.11520718439260569,16
+1254,Process Change,Successful,1.1068616362435364,19
+1255,Cultural Change,Unsuccessful,1.161540069077502,10
+1256,Technology Change,Unsuccessful,-0.31677612804044974,3
+1257,Cultural Change,Partially Successful,-0.17420892453630082,19
+1258,Cultural Change,Partially Successful,-0.37968416070297784,19
+1259,Cultural Change,Unsuccessful,1.3989364871986283,5
+1260,Technology Change,Successful,0.5711468673264024,16
+1261,Process Change,Unsuccessful,0.02094805620629958,6
+1262,Cultural Change,Partially Successful,1.8268740245195656,18
+1263,Technology Change,Unsuccessful,0.24553339535255247,23
+1264,Cultural Change,Partially Successful,0.7732418647585249,16
+1265,Cultural Change,Successful,0.3283499881298948,8
+1266,Cultural Change,Unsuccessful,0.8474764408281432,5
+1267,Process Change,Partially Successful,-0.48398651604376935,7
+1268,Technology Change,Successful,1.4061389214099163,11
+1269,Technology Change,Partially Successful,-0.4056483328692624,23
+1270,Cultural Change,Successful,1.2276532925218857,19
+1271,Technology Change,Partially Successful,1.0122179914150213,6
+1272,Process Change,Successful,-0.13677437810389753,17
+1273,Process Change,Unsuccessful,1.598075789206053,15
+1274,Cultural Change,Successful,1.8436824795417004,7
+1275,Technology Change,Unsuccessful,0.9757257481667123,4
+1276,Cultural Change,Partially Successful,0.8124789843352638,23
+1277,Cultural Change,Partially Successful,0.34399573489437185,22
+1278,Process Change,Partially Successful,-0.3569846292986621,5
+1279,Technology Change,Partially Successful,1.1401496875324209,21
+1280,Technology Change,Partially Successful,1.8850871722418292,3
+1281,Cultural Change,Unsuccessful,0.4217456870650611,18
+1282,Cultural Change,Unsuccessful,0.5097225283376179,6
+1283,Process Change,Successful,-0.05522765729709844,16
+1284,Cultural Change,Successful,-0.33187356696149845,18
+1285,Process Change,Partially Successful,1.9863156902109078,4
+1286,Process Change,Unsuccessful,1.965848073459108,15
+1287,Process Change,Partially Successful,0.20307997349438067,17
+1288,Cultural Change,Successful,1.420240703200514,5
+1289,Technology Change,Partially Successful,1.5720312399770506,23
+1290,Technology Change,Partially Successful,0.6826383538482956,18
+1291,Technology Change,Unsuccessful,-0.1739816697312478,22
+1292,Technology Change,Successful,-0.3004099698611774,11
+1293,Technology Change,Partially Successful,0.43212838222234695,6
+1294,Process Change,Successful,1.690346853434273,5
+1295,Technology Change,Successful,0.34954462779679274,8
+1296,Technology Change,Successful,-0.4680675907163155,1
+1297,Cultural Change,Unsuccessful,0.7432534956447674,3
+1298,Cultural Change,Unsuccessful,0.8082625242146411,6
+1299,Technology Change,Unsuccessful,-0.4603776757955406,21
+1300,Technology Change,Unsuccessful,1.4305416238641182,14
+1301,Cultural Change,Partially Successful,0.859852497501838,12
+1302,Process Change,Partially Successful,1.3921730118123545,21
+1303,Process Change,Partially Successful,0.5928774307691551,12
+1304,Cultural Change,Partially Successful,-0.2799272297151549,10
+1305,Cultural Change,Partially Successful,0.9029361494188841,20
+1306,Cultural Change,Partially Successful,1.5757328372924126,8
+1307,Cultural Change,Unsuccessful,0.4775862250323266,7
+1308,Technology Change,Unsuccessful,1.8021383768297778,11
+1309,Cultural Change,Unsuccessful,0.5826276606835643,13
+1310,Process Change,Unsuccessful,0.31650093224219145,1
+1311,Process Change,Partially Successful,1.967117978019766,8
+1312,Technology Change,Partially Successful,-0.3653078423340376,4
+1313,Technology Change,Partially Successful,0.8402137538532801,5
+1314,Cultural Change,Unsuccessful,1.6708410611985323,3
+1315,Process Change,Unsuccessful,0.300395278333092,22
+1316,Technology Change,Partially Successful,1.9897500820179062,10
+1317,Technology Change,Unsuccessful,-0.43142608296532503,8
+1318,Process Change,Successful,-0.2063534186259004,7
+1319,Cultural Change,Partially Successful,1.003679289043586,8
+1320,Cultural Change,Unsuccessful,-0.4351306279162255,18
+1321,Process Change,Partially Successful,0.6359628387133127,21
+1322,Technology Change,Unsuccessful,0.2989124780455886,12
+1323,Process Change,Partially Successful,1.419665617930077,8
+1324,Process Change,Partially Successful,1.4863499020660762,14
+1325,Technology Change,Unsuccessful,0.9632489202715186,6
+1326,Process Change,Successful,-0.22827750559565857,17
+1327,Cultural Change,Unsuccessful,1.1431966847560862,1
+1328,Process Change,Successful,0.23942442766794492,13
+1329,Cultural Change,Successful,0.2276052092125429,23
+1330,Cultural Change,Unsuccessful,-0.44193282131802497,9
+1331,Process Change,Successful,-0.09998297793016292,10
+1332,Process Change,Unsuccessful,0.8840782059537249,4
+1333,Technology Change,Partially Successful,1.3416986274500156,12
+1334,Process Change,Successful,0.37941345881560495,8
+1335,Technology Change,Successful,0.44528195575504714,5
+1336,Technology Change,Successful,1.3650553904475315,20
+1337,Process Change,Partially Successful,0.9522828093457627,3
+1338,Process Change,Partially Successful,0.37497735950236577,4
+1339,Cultural Change,Unsuccessful,1.3815799107835796,7
+1340,Process Change,Successful,0.14637201639676367,10
+1341,Technology Change,Successful,0.6134744134693415,7
+1342,Technology Change,Unsuccessful,0.7849956290527764,12
+1343,Cultural Change,Partially Successful,1.3121153586668055,22
+1344,Cultural Change,Partially Successful,1.7624701945759718,23
+1345,Cultural Change,Unsuccessful,0.5506666993553082,19
+1346,Process Change,Partially Successful,-0.15765608945663823,6
+1347,Process Change,Successful,1.2276976378886253,5
+1348,Technology Change,Successful,-0.04796285923265403,15
+1349,Cultural Change,Successful,-0.024407175494455646,23
+1350,Process Change,Successful,-0.3300227597342707,16
+1351,Technology Change,Unsuccessful,0.20531353390477536,16
+1352,Technology Change,Successful,0.3453823530999369,3
+1353,Process Change,Successful,1.2639021561267882,16
+1354,Process Change,Unsuccessful,-0.36743761321392465,17
+1355,Cultural Change,Partially Successful,1.2787839995421242,15
+1356,Technology Change,Partially Successful,1.1588697581325826,5
+1357,Technology Change,Partially Successful,1.7018877177066325,2
+1358,Cultural Change,Partially Successful,-0.3602450359648941,17
+1359,Cultural Change,Partially Successful,0.30010654396641545,8
+1360,Process Change,Successful,-0.2603112949346771,7
+1361,Process Change,Unsuccessful,0.10628025776524208,15
+1362,Technology Change,Partially Successful,0.9195791658146084,8
+1363,Technology Change,Successful,1.316519737132377,16
+1364,Process Change,Successful,1.9395398931861814,13
+1365,Cultural Change,Partially Successful,0.8495383199654987,2
+1366,Cultural Change,Successful,0.060173380725996206,5
+1367,Process Change,Partially Successful,0.7379451933192946,8
+1368,Cultural Change,Partially Successful,0.3353921314350893,8
+1369,Process Change,Successful,-0.47019988102909427,2
+1370,Cultural Change,Partially Successful,0.5462406119132202,12
+1371,Cultural Change,Unsuccessful,1.59887764642996,22
+1372,Process Change,Unsuccessful,1.4304396731379336,7
+1373,Technology Change,Unsuccessful,-0.1750517817366763,21
+1374,Cultural Change,Unsuccessful,-0.40848649587700026,2
+1375,Cultural Change,Unsuccessful,1.7404463695140167,1
+1376,Technology Change,Unsuccessful,0.5729860554371953,14
+1377,Cultural Change,Partially Successful,0.7438053643179199,10
+1378,Technology Change,Partially Successful,0.45807343185458804,20
+1379,Process Change,Unsuccessful,1.4299184223818129,13
+1380,Cultural Change,Partially Successful,-0.3509501166803548,13
+1381,Process Change,Unsuccessful,0.9757778379379625,19
+1382,Technology Change,Successful,1.601211017248413,13
+1383,Cultural Change,Unsuccessful,1.2941560833865833,18
+1384,Technology Change,Unsuccessful,1.1183498310808309,12
+1385,Cultural Change,Successful,1.8345019724737939,18
+1386,Process Change,Successful,1.9161902634918926,8
+1387,Cultural Change,Unsuccessful,0.0662425876542796,9
+1388,Cultural Change,Partially Successful,1.2063307640810186,7
+1389,Cultural Change,Successful,0.7728297624038105,6
+1390,Technology Change,Unsuccessful,-0.1139349850792627,6
+1391,Technology Change,Partially Successful,-0.0017132724792521814,5
+1392,Cultural Change,Successful,-0.2960855499282515,2
+1393,Cultural Change,Partially Successful,0.2312661796454314,3
+1394,Cultural Change,Unsuccessful,-0.15499610287003512,8
+1395,Process Change,Unsuccessful,0.7806549910120333,2
+1396,Process Change,Partially Successful,0.8206545733296882,17
+1397,Technology Change,Partially Successful,0.6788803187751942,4
+1398,Cultural Change,Successful,1.45087028415359,16
+1399,Technology Change,Successful,1.3477079448340639,4
+1400,Process Change,Successful,-0.355271463307044,8
+1401,Cultural Change,Partially Successful,0.8312871098413113,17
+1402,Technology Change,Unsuccessful,0.8353613965147291,20
+1403,Technology Change,Successful,1.6310832566838425,1
+1404,Technology Change,Unsuccessful,1.876000336210268,21
+1405,Cultural Change,Partially Successful,1.2086107396041161,1
+1406,Technology Change,Successful,1.0431252188758224,9
+1407,Technology Change,Unsuccessful,0.20406082875115295,19
+1408,Cultural Change,Partially Successful,0.9749876173272116,6
+1409,Cultural Change,Partially Successful,-0.3891048415394925,4
+1410,Process Change,Successful,0.2188524554604231,7
+1411,Technology Change,Partially Successful,-0.3404909144537672,21
+1412,Cultural Change,Unsuccessful,0.5546145279510901,3
+1413,Process Change,Successful,1.9222623701842712,15
+1414,Technology Change,Successful,-0.060458019513294325,19
+1415,Technology Change,Unsuccessful,-0.22053663071296342,4
+1416,Technology Change,Unsuccessful,1.0195875426613126,5
+1417,Process Change,Successful,1.64340329921301,22
+1418,Cultural Change,Successful,0.1185332847497329,1
+1419,Technology Change,Partially Successful,1.809445910941656,14
+1420,Cultural Change,Successful,1.5449087846865934,17
+1421,Cultural Change,Successful,1.230894874699439,6
+1422,Cultural Change,Unsuccessful,-0.12244884465555839,13
+1423,Process Change,Successful,1.5634658893025994,14
+1424,Cultural Change,Partially Successful,1.2825537755898062,20
+1425,Cultural Change,Unsuccessful,1.195665618943289,6
+1426,Technology Change,Successful,-0.22700961833164263,16
+1427,Technology Change,Unsuccessful,-0.12355744139047037,7
+1428,Technology Change,Partially Successful,-0.11375881638937113,6
+1429,Cultural Change,Successful,1.4660182895017095,15
+1430,Process Change,Unsuccessful,0.8044485686370375,9
+1431,Process Change,Successful,-0.4861250783237354,5
+1432,Technology Change,Successful,1.3122471351672478,22
+1433,Technology Change,Unsuccessful,0.010421992722907003,20
+1434,Process Change,Unsuccessful,1.5825809751093218,8
+1435,Technology Change,Partially Successful,0.0013018054219942066,15
+1436,Cultural Change,Partially Successful,-0.016616356410740052,18
+1437,Technology Change,Unsuccessful,0.03373770064341386,20
+1438,Cultural Change,Successful,0.8235886291347121,16
+1439,Process Change,Unsuccessful,1.8363889469061134,16
+1440,Cultural Change,Partially Successful,1.8682617001319954,4
+1441,Process Change,Successful,1.1930849154264975,11
+1442,Process Change,Successful,1.257192396252557,4
+1443,Process Change,Successful,0.3367547440095041,5
+1444,Process Change,Partially Successful,1.2379872533855325,19
+1445,Process Change,Partially Successful,0.7747641440522024,1
+1446,Technology Change,Successful,0.4042085336125547,8
+1447,Cultural Change,Unsuccessful,0.11595623331441363,20
+1448,Cultural Change,Successful,1.015839890733968,11
+1449,Process Change,Unsuccessful,-0.3733727699448476,18
+1450,Cultural Change,Unsuccessful,0.2615923422312345,1
+1451,Cultural Change,Successful,1.8475678363815056,2
+1452,Process Change,Unsuccessful,-0.2776283089123439,15
+1453,Cultural Change,Partially Successful,1.6234802467764187,22
+1454,Cultural Change,Unsuccessful,-0.08941087362358807,9
+1455,Cultural Change,Partially Successful,1.4142107167831206,7
+1456,Cultural Change,Successful,0.8758814747763204,5
+1457,Process Change,Successful,0.9959778177988634,9
+1458,Process Change,Unsuccessful,0.0015874620666069816,14
+1459,Technology Change,Successful,1.8489374418466298,11
+1460,Cultural Change,Successful,-0.22942673836024646,9
+1461,Cultural Change,Partially Successful,0.13076174719050937,22
+1462,Technology Change,Partially Successful,1.74522176701017,15
+1463,Cultural Change,Partially Successful,1.7705349418535556,3
+1464,Cultural Change,Unsuccessful,0.7316750329847739,2
+1465,Technology Change,Partially Successful,0.48709384990178506,3
+1466,Technology Change,Partially Successful,1.3365504437908768,12
+1467,Process Change,Successful,1.8900016147550769,3
+1468,Technology Change,Unsuccessful,-0.38685085483745674,6
+1469,Process Change,Partially Successful,1.4578018713592766,3
+1470,Technology Change,Partially Successful,1.2578677935809084,13
+1471,Process Change,Unsuccessful,0.8522444985401936,7
+1472,Process Change,Successful,-0.11834896866607503,7
+1473,Technology Change,Successful,1.875117357692495,4
+1474,Technology Change,Successful,-0.34117493214212463,20
+1475,Technology Change,Successful,0.6790686571042432,10
+1476,Technology Change,Unsuccessful,0.24656206543411074,11
+1477,Process Change,Successful,1.208110707910724,17
+1478,Process Change,Unsuccessful,0.6404654872948008,15
+1479,Cultural Change,Partially Successful,0.9247965304148194,19
+1480,Technology Change,Unsuccessful,-0.085391994398543,3
+1481,Technology Change,Partially Successful,1.948331711190356,4
+1482,Technology Change,Successful,-0.2622696361852568,17
+1483,Cultural Change,Successful,-0.3608814827574934,8
+1484,Technology Change,Unsuccessful,1.4799987380191197,21
+1485,Cultural Change,Successful,0.5876119942625491,15
+1486,Process Change,Successful,-0.16063411292582608,19
+1487,Technology Change,Successful,-0.47883769096776896,23
+1488,Process Change,Unsuccessful,0.49026439085737583,10
+1489,Technology Change,Successful,0.6066686281858105,13
+1490,Technology Change,Unsuccessful,1.5757900058649144,16
+1491,Process Change,Successful,1.1531313763459758,10
+1492,Cultural Change,Unsuccessful,0.1793307300559731,20
+1493,Cultural Change,Successful,0.2741982905792075,23
+1494,Technology Change,Partially Successful,1.7435809576298409,13
+1495,Process Change,Unsuccessful,1.1538687649737809,16
+1496,Process Change,Successful,1.2036833617230882,12
+1497,Technology Change,Partially Successful,0.7224403825374748,22
+1498,Process Change,Partially Successful,1.9093589346113804,12
+1499,Technology Change,Partially Successful,0.01358300584740424,16
+1500,Technology Change,Partially Successful,1.8477467215094632,2
+1501,Cultural Change,Partially Successful,0.6031591223615052,7
+1502,Cultural Change,Unsuccessful,1.8978646666823602,4
+1503,Cultural Change,Unsuccessful,0.22717651397496808,1
+1504,Technology Change,Partially Successful,1.1397024868803498,9
+1505,Process Change,Successful,0.6303206720990788,17
+1506,Process Change,Partially Successful,1.6151897774376756,19
+1507,Process Change,Unsuccessful,-0.4788823697827467,20
+1508,Cultural Change,Successful,0.23024409302537086,15
+1509,Process Change,Unsuccessful,0.015728601495220595,9
+1510,Technology Change,Successful,-0.40946486790241665,15
+1511,Cultural Change,Unsuccessful,-0.26852515239227503,16
+1512,Technology Change,Partially Successful,0.5323941155629046,3
+1513,Process Change,Unsuccessful,-0.4495275364231728,7
+1514,Process Change,Partially Successful,1.360390169593976,7
+1515,Process Change,Partially Successful,0.02086812838447827,22
+1516,Cultural Change,Unsuccessful,0.0316684669080709,2
+1517,Technology Change,Successful,1.7193493362428258,19
+1518,Cultural Change,Successful,1.945657881495365,22
+1519,Cultural Change,Partially Successful,-0.1720223790765747,20
+1520,Technology Change,Unsuccessful,1.0389387873392113,3
+1521,Technology Change,Successful,1.0611642866502717,17
+1522,Cultural Change,Unsuccessful,1.3465165224329727,9
+1523,Process Change,Successful,1.9956257832713353,12
+1524,Technology Change,Partially Successful,-0.10202302238347627,4
+1525,Cultural Change,Unsuccessful,-0.3775172057536592,15
+1526,Technology Change,Partially Successful,0.12848888108270773,1
+1527,Process Change,Unsuccessful,-0.00959598325490596,23
+1528,Cultural Change,Partially Successful,0.9005300307376318,1
+1529,Cultural Change,Partially Successful,0.8262978729877939,12
+1530,Cultural Change,Successful,-0.07184518750937907,8
+1531,Cultural Change,Unsuccessful,0.5304831562816679,5
+1532,Technology Change,Partially Successful,-0.02712345317070386,17
+1533,Process Change,Unsuccessful,1.5941398161228957,7
+1534,Cultural Change,Partially Successful,0.5403713889835442,8
+1535,Cultural Change,Unsuccessful,0.5554532010588153,3
+1536,Technology Change,Partially Successful,0.33439823829374893,4
+1537,Process Change,Partially Successful,1.1244418797411244,6
+1538,Cultural Change,Partially Successful,1.5866195088101933,18
+1539,Technology Change,Successful,0.9352637965454693,7
+1540,Cultural Change,Successful,1.1927083878908475,15
+1541,Technology Change,Partially Successful,0.9586521812799496,23
+1542,Technology Change,Partially Successful,1.7163737124039793,1
+1543,Process Change,Partially Successful,-0.49701098476375366,15
+1544,Process Change,Partially Successful,0.09913025844512391,13
+1545,Cultural Change,Partially Successful,0.4584568458347045,1
+1546,Process Change,Partially Successful,-0.3164699700501956,11
+1547,Process Change,Unsuccessful,1.3346068844233159,16
+1548,Technology Change,Partially Successful,1.874161510583113,12
+1549,Process Change,Successful,1.7541907887858774,17
+1550,Technology Change,Partially Successful,1.853101187698297,19
+1551,Technology Change,Unsuccessful,0.2811624514676646,15
+1552,Technology Change,Successful,1.0897561976358094,8
+1553,Technology Change,Unsuccessful,0.8951255595886454,8
+1554,Cultural Change,Partially Successful,0.37771999874622675,12
+1555,Process Change,Unsuccessful,0.7361513453880102,21
+1556,Process Change,Successful,1.3178468988318743,10
+1557,Cultural Change,Partially Successful,-0.06119932044413118,23
+1558,Technology Change,Unsuccessful,0.03310913331846255,5
+1559,Process Change,Partially Successful,1.0378072833521397,7
+1560,Process Change,Successful,0.8233341604100315,1
+1561,Technology Change,Successful,1.2514472312040934,21
+1562,Process Change,Unsuccessful,1.4574356153543473,2
+1563,Process Change,Unsuccessful,-0.18427417194590023,14
+1564,Cultural Change,Unsuccessful,-0.486029396074014,20
+1565,Technology Change,Partially Successful,1.5880916796772322,21
+1566,Cultural Change,Partially Successful,0.18374768713795242,13
+1567,Cultural Change,Successful,1.1449160416533544,22
+1568,Technology Change,Unsuccessful,1.6555542282334712,15
+1569,Process Change,Unsuccessful,0.8525894886504466,6
+1570,Cultural Change,Partially Successful,1.5401530487276442,17
+1571,Process Change,Unsuccessful,-0.05447776379768604,20
+1572,Technology Change,Unsuccessful,1.2724906997850665,15
+1573,Technology Change,Partially Successful,1.0583750770423912,11
+1574,Technology Change,Partially Successful,1.02785558943892,16
+1575,Cultural Change,Partially Successful,-0.04587762130645695,11
+1576,Process Change,Unsuccessful,0.11614063699364452,1
+1577,Technology Change,Unsuccessful,1.342929915071515,17
+1578,Technology Change,Successful,1.0223714088858578,8
+1579,Cultural Change,Partially Successful,-0.2374377140811022,9
+1580,Technology Change,Unsuccessful,-0.3491780925429373,2
+1581,Cultural Change,Unsuccessful,1.977126376785261,1
+1582,Technology Change,Successful,1.0606982037277617,17
+1583,Process Change,Partially Successful,-0.3743025168648932,9
+1584,Technology Change,Partially Successful,-0.14925929272430483,9
+1585,Process Change,Successful,-0.05760363202340785,15
+1586,Cultural Change,Successful,-0.26005451026997733,8
+1587,Technology Change,Partially Successful,0.43405828856001105,17
+1588,Technology Change,Successful,-0.486679110824383,7
+1589,Cultural Change,Partially Successful,0.7161480445302517,11
+1590,Technology Change,Unsuccessful,1.1516062822124653,23
+1591,Technology Change,Partially Successful,1.3439199070364691,9
+1592,Technology Change,Unsuccessful,1.9875563388968343,13
+1593,Cultural Change,Successful,0.062234036568660445,20
+1594,Cultural Change,Partially Successful,1.237054087160601,11
+1595,Cultural Change,Unsuccessful,0.1689882019312432,1
+1596,Cultural Change,Partially Successful,0.5614233533366202,4
+1597,Process Change,Partially Successful,1.713204104768192,7
+1598,Technology Change,Partially Successful,0.45872470745618166,23
+1599,Technology Change,Successful,0.37054065593649677,1
+1600,Technology Change,Unsuccessful,1.9922637211187588,19
+1601,Process Change,Partially Successful,0.44975595063138885,3
+1602,Cultural Change,Partially Successful,1.210224950929899,8
+1603,Process Change,Successful,-0.20325268529112855,8
+1604,Cultural Change,Successful,0.605357466021089,5
+1605,Technology Change,Unsuccessful,0.654773230408443,15
+1606,Cultural Change,Successful,0.49519841356914474,8
+1607,Cultural Change,Partially Successful,0.4260218462098102,3
+1608,Cultural Change,Successful,1.9346933670267603,5
+1609,Cultural Change,Unsuccessful,-0.30687313834815444,23
+1610,Process Change,Successful,1.2544032112682144,22
+1611,Process Change,Partially Successful,1.5718401923588448,23
+1612,Process Change,Partially Successful,1.8221225317260914,13
+1613,Technology Change,Partially Successful,1.8635179817586223,22
+1614,Process Change,Successful,1.9514048204893522,17
+1615,Technology Change,Partially Successful,0.12107946031974115,17
+1616,Process Change,Unsuccessful,0.34553879089328077,13
+1617,Cultural Change,Unsuccessful,1.7911672863224801,5
+1618,Technology Change,Partially Successful,-0.3573522463912702,20
+1619,Cultural Change,Partially Successful,-0.2571695984026244,7
+1620,Cultural Change,Successful,1.277536418588934,3
+1621,Process Change,Unsuccessful,-0.47433517832845423,15
+1622,Cultural Change,Unsuccessful,1.3305325447036045,23
+1623,Technology Change,Successful,0.27341762578585715,15
+1624,Cultural Change,Successful,1.5777857536713098,19
+1625,Process Change,Successful,1.7543892916303405,22
+1626,Cultural Change,Successful,1.6616238321148957,4
+1627,Cultural Change,Partially Successful,1.5646945112436348,18
+1628,Cultural Change,Partially Successful,0.07875509462435715,2
+1629,Technology Change,Successful,-0.30545867234215884,20
+1630,Process Change,Unsuccessful,1.7436399264970386,3
+1631,Cultural Change,Partially Successful,1.9120611574702737,15
+1632,Cultural Change,Partially Successful,1.578010400634935,18
+1633,Process Change,Successful,0.10162475907821755,17
+1634,Cultural Change,Successful,0.6304276890614726,19
+1635,Technology Change,Unsuccessful,-0.013278630232613331,1
+1636,Cultural Change,Unsuccessful,0.21165208957222392,3
+1637,Process Change,Successful,0.63641378094509,3
+1638,Technology Change,Unsuccessful,1.033964372420292,22
+1639,Cultural Change,Partially Successful,0.5496365292968073,8
+1640,Cultural Change,Partially Successful,1.9508226113366,7
+1641,Cultural Change,Successful,1.7433432143084318,3
+1642,Cultural Change,Unsuccessful,0.09856640291748142,7
+1643,Process Change,Successful,1.8620388691684697,1
+1644,Cultural Change,Successful,1.7727874261229104,7
+1645,Technology Change,Partially Successful,1.7475390901621637,3
+1646,Process Change,Successful,1.5047504793072517,19
+1647,Cultural Change,Unsuccessful,0.5926582681308323,18
+1648,Process Change,Unsuccessful,0.3626335877366933,5
+1649,Technology Change,Successful,-0.289471612176113,18
+1650,Cultural Change,Unsuccessful,0.5269465817351531,23
+1651,Cultural Change,Unsuccessful,1.8104024335071456,7
+1652,Process Change,Unsuccessful,0.26254814455943176,7
+1653,Cultural Change,Successful,0.5047444265399941,2
+1654,Technology Change,Partially Successful,0.6819940435908638,9
+1655,Process Change,Unsuccessful,0.5053322236390538,22
+1656,Process Change,Unsuccessful,1.0744317565906707,20
+1657,Technology Change,Successful,1.7032411070692848,16
+1658,Cultural Change,Unsuccessful,1.8369372227907066,18
+1659,Cultural Change,Unsuccessful,0.44276784488921683,16
+1660,Process Change,Unsuccessful,-0.4333683040787718,16
+1661,Process Change,Unsuccessful,1.6862473933820628,11
+1662,Process Change,Successful,-0.08744015935579952,22
+1663,Technology Change,Unsuccessful,0.14833858950518242,15
+1664,Cultural Change,Unsuccessful,0.9681645330984183,13
+1665,Process Change,Successful,1.4036946661495644,5
+1666,Technology Change,Successful,1.852885246982825,22
+1667,Cultural Change,Successful,0.46391166106338466,6
+1668,Cultural Change,Unsuccessful,0.10716120738910062,15
+1669,Technology Change,Partially Successful,-0.2297926729544068,3
+1670,Process Change,Successful,0.7183348688538027,21
+1671,Cultural Change,Unsuccessful,1.499505281561942,20
+1672,Process Change,Successful,0.3035829549018283,15
+1673,Process Change,Partially Successful,-0.3888822307095012,20
+1674,Cultural Change,Unsuccessful,-0.3356278454681742,6
+1675,Technology Change,Unsuccessful,0.30544751565498396,3
+1676,Process Change,Unsuccessful,-0.21900084730912467,14
+1677,Technology Change,Unsuccessful,-0.20047594025493592,16
+1678,Cultural Change,Successful,0.6016214853131445,2
+1679,Process Change,Successful,0.9882364052690851,19
+1680,Cultural Change,Partially Successful,-0.22717843769186796,9
+1681,Technology Change,Successful,1.977408292912556,1
+1682,Process Change,Unsuccessful,0.9626627097791292,10
+1683,Technology Change,Successful,-0.1525699306308793,5
+1684,Cultural Change,Successful,0.8166948335313542,8
+1685,Process Change,Partially Successful,-0.10194355608384009,10
+1686,Technology Change,Successful,1.5138798585390245,15
+1687,Technology Change,Partially Successful,1.0146199024135334,2
+1688,Technology Change,Partially Successful,-0.08858702211223518,15
+1689,Cultural Change,Successful,0.4113199489957322,6
+1690,Process Change,Partially Successful,0.06176399588889869,13
+1691,Cultural Change,Unsuccessful,0.09048925035452005,15
+1692,Technology Change,Successful,0.6679307414426512,12
+1693,Technology Change,Unsuccessful,0.5795784187695996,6
+1694,Technology Change,Successful,0.5625172791026096,19
+1695,Technology Change,Partially Successful,0.06752492813500033,7
+1696,Technology Change,Partially Successful,1.0689549412400126,18
+1697,Process Change,Successful,1.0930107668897877,23
+1698,Technology Change,Unsuccessful,1.27055886635222,18
+1699,Cultural Change,Partially Successful,0.1654991846587749,8
+1700,Cultural Change,Successful,1.8063606777229326,19
+1701,Cultural Change,Unsuccessful,1.1218911339795468,10
+1702,Process Change,Successful,1.1892652139051338,9
+1703,Process Change,Successful,0.9397462475847238,12
+1704,Cultural Change,Unsuccessful,0.4621026861132581,5
+1705,Process Change,Unsuccessful,0.5930496983986915,22
+1706,Process Change,Partially Successful,0.867520674729481,9
+1707,Technology Change,Successful,-0.22161794873763502,14
+1708,Process Change,Unsuccessful,1.1598450354108472,23
+1709,Process Change,Partially Successful,1.7481473176573261,9
+1710,Technology Change,Unsuccessful,0.5737165831480178,18
+1711,Process Change,Unsuccessful,1.9979969624644198,22
+1712,Technology Change,Successful,0.8009354015050445,14
+1713,Cultural Change,Unsuccessful,1.5749448831630826,8
+1714,Process Change,Partially Successful,1.4412226859337736,8
+1715,Process Change,Partially Successful,0.1372546772871348,8
+1716,Process Change,Unsuccessful,0.5781307330655767,4
+1717,Cultural Change,Successful,1.6093350555750718,6
+1718,Technology Change,Partially Successful,1.9974316045000258,6
+1719,Cultural Change,Partially Successful,0.44993871555884546,10
+1720,Process Change,Partially Successful,-0.43864531070678375,22
+1721,Cultural Change,Partially Successful,1.3360123755242739,6
+1722,Process Change,Successful,1.906755206626685,11
+1723,Cultural Change,Unsuccessful,1.7552585040455946,6
+1724,Cultural Change,Successful,1.709540780540276,5
+1725,Cultural Change,Unsuccessful,0.8735583601569177,3
+1726,Cultural Change,Partially Successful,0.6276136598358115,5
+1727,Process Change,Successful,1.7119062476784581,17
+1728,Technology Change,Partially Successful,0.23563145168124433,4
+1729,Cultural Change,Successful,0.006910386827462145,11
+1730,Cultural Change,Unsuccessful,1.505426133132493,19
+1731,Cultural Change,Partially Successful,1.9382114388977159,12
+1732,Cultural Change,Successful,0.04319166967396493,6
+1733,Cultural Change,Unsuccessful,1.1560469454896358,20
+1734,Process Change,Successful,1.0200781161436798,18
+1735,Cultural Change,Successful,1.5358337853235682,14
+1736,Technology Change,Unsuccessful,-0.3835156535196009,8
+1737,Process Change,Successful,-0.042034597701708476,16
+1738,Process Change,Successful,0.2985551390003218,15
+1739,Technology Change,Unsuccessful,0.3295313801692237,8
+1740,Process Change,Unsuccessful,-0.34123644733750635,17
+1741,Cultural Change,Unsuccessful,0.11171161084141468,12
+1742,Technology Change,Successful,1.0426503052505103,3
+1743,Process Change,Successful,0.8091767478124336,1
+1744,Cultural Change,Partially Successful,1.4020289510518462,19
+1745,Process Change,Successful,0.5150466349325828,10
+1746,Technology Change,Unsuccessful,0.7665076615700674,18
+1747,Process Change,Partially Successful,-0.24166002407050702,12
+1748,Cultural Change,Successful,0.6682725558427483,13
+1749,Cultural Change,Partially Successful,1.3323008175405266,23
+1750,Technology Change,Successful,1.0719689178730925,22
+1751,Cultural Change,Unsuccessful,0.5029886082588777,4
+1752,Process Change,Unsuccessful,1.3133102482492947,4
+1753,Cultural Change,Unsuccessful,1.6565064738198423,21
+1754,Process Change,Successful,1.2649097675658627,13
+1755,Technology Change,Successful,1.9648422048973924,20
+1756,Cultural Change,Unsuccessful,0.058387128488515794,13
+1757,Cultural Change,Unsuccessful,0.7171105932882234,20
+1758,Process Change,Partially Successful,1.1783657984121316,6
+1759,Process Change,Successful,0.8001269581771342,13
+1760,Technology Change,Unsuccessful,1.5887627144988525,22
+1761,Technology Change,Unsuccessful,1.4608743770652073,23
+1762,Process Change,Unsuccessful,0.9488325345474704,4
+1763,Technology Change,Partially Successful,0.6419886294193151,10
+1764,Technology Change,Unsuccessful,0.8550793020229897,3
+1765,Technology Change,Unsuccessful,-0.08022821196207824,9
+1766,Technology Change,Successful,-0.46990395897249415,18
+1767,Technology Change,Unsuccessful,-0.2675295439288587,17
+1768,Process Change,Partially Successful,1.8306120648145607,1
+1769,Technology Change,Partially Successful,0.49598150567565047,8
+1770,Technology Change,Partially Successful,1.3133924432133708,4
+1771,Process Change,Successful,0.8809295776855055,16
+1772,Process Change,Successful,1.4761138184786378,12
+1773,Cultural Change,Unsuccessful,1.7496147633440384,14
+1774,Cultural Change,Unsuccessful,1.7986741723196613,22
+1775,Cultural Change,Partially Successful,-0.022202415268486153,21
+1776,Cultural Change,Successful,1.3276000663255711,19
+1777,Cultural Change,Unsuccessful,0.6510609003233223,11
+1778,Cultural Change,Unsuccessful,0.8695407310766183,5
+1779,Process Change,Unsuccessful,1.6861616565945403,13
+1780,Cultural Change,Successful,-0.07893356396816359,19
+1781,Process Change,Unsuccessful,0.8812318480926855,13
+1782,Process Change,Unsuccessful,0.7981977147290904,19
+1783,Process Change,Partially Successful,0.2457121476275369,19
+1784,Process Change,Partially Successful,-0.25467048718804436,21
+1785,Technology Change,Partially Successful,1.734706332488733,1
+1786,Cultural Change,Unsuccessful,0.5245124074679834,8
+1787,Cultural Change,Partially Successful,0.6399950288436242,4
+1788,Cultural Change,Partially Successful,1.349078704531549,8
+1789,Process Change,Successful,1.3113977908310843,15
+1790,Technology Change,Partially Successful,1.23619193919499,4
+1791,Cultural Change,Unsuccessful,1.7977227305086623,20
+1792,Process Change,Successful,1.6774032894488067,20
+1793,Process Change,Unsuccessful,0.8660010515478871,13
+1794,Technology Change,Successful,-0.3947467232881092,21
+1795,Process Change,Partially Successful,1.2712845502662793,17
+1796,Cultural Change,Partially Successful,1.3690478323640853,17
+1797,Technology Change,Successful,-0.3205272437237967,10
+1798,Process Change,Successful,-0.08376200699150887,3
+1799,Technology Change,Successful,1.3639951608367196,11
+1800,Process Change,Successful,1.1154828508902823,16
+1801,Technology Change,Successful,-0.17119859894020079,12
+1802,Process Change,Unsuccessful,-0.10884043812385014,2
+1803,Cultural Change,Unsuccessful,1.8630370449295226,3
+1804,Cultural Change,Unsuccessful,-0.19916395107994073,15
+1805,Cultural Change,Successful,1.1692442829111367,18
+1806,Technology Change,Successful,1.6928506800906038,21
+1807,Process Change,Partially Successful,0.7414462513084159,5
+1808,Cultural Change,Successful,-0.021886054333147942,1
+1809,Technology Change,Partially Successful,0.5741939998449563,1
+1810,Cultural Change,Successful,-0.3059237126788554,23
+1811,Process Change,Successful,1.327645193871275,23
+1812,Process Change,Unsuccessful,0.7411351303542184,19
+1813,Technology Change,Partially Successful,1.8417043621052782,4
+1814,Process Change,Unsuccessful,0.19164710641017502,20
+1815,Cultural Change,Successful,0.5384095167591345,16
+1816,Technology Change,Partially Successful,1.9559396355171974,21
+1817,Technology Change,Successful,1.0955904420490725,11
+1818,Technology Change,Successful,-0.3852401972566528,22
+1819,Technology Change,Partially Successful,0.061926466139741065,17
+1820,Process Change,Partially Successful,0.12525988174910563,1
+1821,Cultural Change,Unsuccessful,1.846314843339678,1
+1822,Technology Change,Unsuccessful,-0.005302763617714812,6
+1823,Technology Change,Partially Successful,1.843237947332963,1
+1824,Technology Change,Successful,0.17892108944940155,1
+1825,Technology Change,Successful,0.1384382489165663,4
+1826,Process Change,Successful,-0.04086803575391468,14
+1827,Process Change,Partially Successful,0.07281015877237684,9
+1828,Process Change,Unsuccessful,1.7081296429976844,6
+1829,Cultural Change,Partially Successful,0.21902994032852774,13
+1830,Technology Change,Successful,0.24856840423279802,8
+1831,Technology Change,Partially Successful,1.478115925118828,6
+1832,Technology Change,Unsuccessful,1.3936175557956458,3
+1833,Process Change,Partially Successful,-0.20749920244072584,19
+1834,Process Change,Partially Successful,1.7568258126658658,19
+1835,Technology Change,Partially Successful,0.4724223575657429,19
+1836,Technology Change,Unsuccessful,1.1231120716134027,7
+1837,Cultural Change,Successful,0.2463771365022337,8
+1838,Process Change,Partially Successful,0.6180192188840996,9
+1839,Process Change,Successful,0.44369730566635246,4
+1840,Process Change,Successful,0.738458022488822,18
+1841,Cultural Change,Unsuccessful,0.5119306009196509,9
+1842,Technology Change,Successful,0.1572466156065413,22
+1843,Process Change,Successful,1.6398046366709238,9
+1844,Technology Change,Unsuccessful,0.4922564811012089,12
+1845,Cultural Change,Successful,1.575662038280361,15
+1846,Technology Change,Unsuccessful,0.010554478106196807,21
+1847,Process Change,Successful,0.3745817519919452,5
+1848,Process Change,Partially Successful,-0.35472773921081124,8
+1849,Process Change,Partially Successful,0.3951279162813295,23
+1850,Technology Change,Successful,0.3772696577235637,17
+1851,Cultural Change,Unsuccessful,-0.0598915793653233,20
+1852,Technology Change,Unsuccessful,-0.3579639104250788,4
+1853,Technology Change,Unsuccessful,0.08093424336888888,4
+1854,Process Change,Successful,1.249153167397795,4
+1855,Process Change,Unsuccessful,0.9767431709436829,19
+1856,Process Change,Partially Successful,0.20141951694656646,1
+1857,Cultural Change,Unsuccessful,-0.018733105627352475,9
+1858,Cultural Change,Unsuccessful,0.34855830396051735,1
+1859,Cultural Change,Unsuccessful,1.151611562819203,22
+1860,Technology Change,Partially Successful,1.8802916350670578,14
+1861,Technology Change,Successful,0.5112370924605683,14
+1862,Technology Change,Partially Successful,1.1595672455007873,2
+1863,Process Change,Partially Successful,0.7677108234547487,9
+1864,Technology Change,Unsuccessful,1.9855868294606522,16
+1865,Process Change,Successful,1.4864922196185253,18
+1866,Cultural Change,Unsuccessful,0.12211444860621046,23
+1867,Cultural Change,Successful,0.7428108577572619,15
+1868,Process Change,Successful,0.9272288239808748,1
+1869,Cultural Change,Partially Successful,1.5788956106263825,22
+1870,Technology Change,Unsuccessful,-0.22047804932665932,10
+1871,Process Change,Successful,0.3964309304774326,5
+1872,Technology Change,Successful,-0.27058810639192227,8
+1873,Process Change,Unsuccessful,1.2466964542841978,11
+1874,Process Change,Unsuccessful,1.3053566423832181,18
+1875,Cultural Change,Unsuccessful,0.9487168261188601,15
+1876,Cultural Change,Partially Successful,1.7370569792323742,16
+1877,Cultural Change,Partially Successful,0.3120049255190078,17
+1878,Technology Change,Successful,0.7743867994970444,10
+1879,Cultural Change,Unsuccessful,0.6612101790607467,11
+1880,Cultural Change,Unsuccessful,1.1480719003065225,3
+1881,Cultural Change,Partially Successful,1.7655550127150907,12
+1882,Process Change,Successful,-0.1460085916449298,10
+1883,Technology Change,Unsuccessful,1.2534005344679007,22
+1884,Cultural Change,Partially Successful,1.3063893326818015,15
+1885,Process Change,Unsuccessful,0.11496259655722607,23
+1886,Technology Change,Unsuccessful,0.6947712868251228,7
+1887,Technology Change,Successful,1.3340206958604532,23
+1888,Cultural Change,Successful,1.1323209783455217,10
+1889,Process Change,Unsuccessful,-0.11532586235301467,5
+1890,Process Change,Successful,-0.33020809647353444,9
+1891,Process Change,Unsuccessful,0.2683923053605052,6
+1892,Cultural Change,Successful,0.08377411368616572,2
+1893,Process Change,Unsuccessful,0.8674039324134823,4
+1894,Cultural Change,Successful,0.258501523026859,12
+1895,Cultural Change,Unsuccessful,-0.10116530501719773,23
+1896,Technology Change,Successful,0.5069140153486704,10
+1897,Cultural Change,Successful,1.7785305967729972,13
+1898,Technology Change,Partially Successful,1.8588501384888843,20
+1899,Cultural Change,Partially Successful,0.18725734692224483,20
+1900,Process Change,Unsuccessful,0.5437599384585416,9
+1901,Technology Change,Partially Successful,-0.11730035903048536,6
+1902,Technology Change,Unsuccessful,1.507679619694584,18
+1903,Technology Change,Partially Successful,1.2922850487441322,18
+1904,Cultural Change,Successful,1.21764069055688,18
+1905,Process Change,Successful,1.148164304463823,7
+1906,Technology Change,Unsuccessful,-0.2414069074968504,9
+1907,Cultural Change,Unsuccessful,-0.4189256288419547,9
+1908,Process Change,Partially Successful,0.3135470907974168,8
+1909,Cultural Change,Partially Successful,0.3889393010926022,18
+1910,Cultural Change,Partially Successful,1.6669732048485035,15
+1911,Process Change,Partially Successful,1.768595774719838,1
+1912,Process Change,Partially Successful,-0.2681994514468756,14
+1913,Process Change,Successful,1.8331726216694397,14
+1914,Process Change,Partially Successful,-0.4625514403041901,5
+1915,Technology Change,Partially Successful,-0.02530896723882775,14
+1916,Technology Change,Successful,1.674923139504204,6
+1917,Technology Change,Unsuccessful,0.5385197309820531,8
+1918,Cultural Change,Unsuccessful,-0.17018731004535476,7
+1919,Cultural Change,Successful,1.3706592757227885,15
+1920,Cultural Change,Successful,-0.0630924817727972,4
+1921,Technology Change,Partially Successful,-0.09681141014731676,16
+1922,Process Change,Partially Successful,0.3428849151993698,21
+1923,Process Change,Successful,0.4032525865421043,23
+1924,Technology Change,Partially Successful,0.724491010049098,8
+1925,Technology Change,Partially Successful,1.399899183914068,4
+1926,Technology Change,Partially Successful,0.7507441628482714,12
+1927,Technology Change,Successful,0.23372447225210724,17
+1928,Technology Change,Successful,1.0003373533369533,22
+1929,Cultural Change,Partially Successful,1.4981671070470486,3
+1930,Process Change,Successful,1.915539197298267,16
+1931,Process Change,Successful,1.5591164881280752,17
+1932,Technology Change,Unsuccessful,-0.2636829140940515,5
+1933,Cultural Change,Partially Successful,-0.4142720168534207,17
+1934,Process Change,Successful,0.41631243244663874,18
+1935,Process Change,Successful,0.8533271382913066,13
+1936,Technology Change,Unsuccessful,-0.37648789114740605,1
+1937,Process Change,Partially Successful,1.1906713617679308,8
+1938,Process Change,Unsuccessful,1.0936951093946252,12
+1939,Process Change,Unsuccessful,-0.1838174244438177,20
+1940,Process Change,Successful,0.12382692839753306,11
+1941,Cultural Change,Successful,0.7842602130917855,11
+1942,Cultural Change,Successful,-0.023555703451265786,1
+1943,Process Change,Unsuccessful,0.485993282308272,11
+1944,Technology Change,Unsuccessful,0.1988517174103437,10
+1945,Technology Change,Successful,0.3872838148277793,15
+1946,Process Change,Successful,1.685041078186443,22
+1947,Technology Change,Successful,1.5977191227284324,11
+1948,Technology Change,Partially Successful,1.3964551120036495,12
+1949,Process Change,Partially Successful,1.2094390509679274,5
+1950,Process Change,Unsuccessful,0.16792962088519703,20
+1951,Cultural Change,Successful,-0.0851381201068292,16
+1952,Technology Change,Successful,0.9594318815643781,3
+1953,Process Change,Partially Successful,0.7225238003435512,17
+1954,Process Change,Successful,-0.4876721764978879,17
+1955,Technology Change,Unsuccessful,0.6911490405872114,5
+1956,Technology Change,Successful,1.9565363535035862,14
+1957,Technology Change,Partially Successful,0.6025997196758155,19
+1958,Process Change,Successful,1.538824309539537,15
+1959,Process Change,Unsuccessful,0.5740053854702052,23
+1960,Process Change,Partially Successful,1.1440279287392867,20
+1961,Technology Change,Successful,1.1389425630146497,21
+1962,Process Change,Successful,0.7555585590964045,5
+1963,Process Change,Unsuccessful,1.7458228794609996,15
+1964,Process Change,Successful,1.0180773027425492,15
+1965,Process Change,Partially Successful,1.1540062021651967,15
+1966,Technology Change,Unsuccessful,0.10974534757130683,7
+1967,Process Change,Partially Successful,0.6966008384566338,15
+1968,Cultural Change,Partially Successful,-0.15659692356857002,5
+1969,Cultural Change,Partially Successful,0.9805756192301405,1
+1970,Process Change,Unsuccessful,1.8268084231840387,12
+1971,Cultural Change,Unsuccessful,0.9031482680343577,20
+1972,Cultural Change,Partially Successful,1.2885860025161735,21
+1973,Technology Change,Partially Successful,0.7927177464617554,7
+1974,Cultural Change,Successful,1.3660682249747458,22
+1975,Cultural Change,Successful,1.7266384749835506,23
+1976,Process Change,Successful,1.5926581964867381,1
+1977,Process Change,Successful,0.012117870281119658,21
+1978,Technology Change,Successful,0.5554530105872262,16
+1979,Cultural Change,Unsuccessful,-0.323696361401999,14
+1980,Technology Change,Partially Successful,1.899420331514404,2
+1981,Cultural Change,Unsuccessful,1.8907540105768934,18
+1982,Technology Change,Successful,1.2379958215796525,18
+1983,Cultural Change,Unsuccessful,1.1446948272066764,9
+1984,Technology Change,Unsuccessful,0.5998763964439693,12
+1985,Technology Change,Successful,1.256948815601793,4
+1986,Process Change,Unsuccessful,1.8344853533778998,14
+1987,Technology Change,Successful,0.053096363090415655,11
+1988,Process Change,Unsuccessful,0.16853927444702,12
+1989,Technology Change,Successful,-0.16290432144325334,11
+1990,Process Change,Unsuccessful,1.9706658795457455,7
+1991,Cultural Change,Successful,0.4171285009462171,2
+1992,Cultural Change,Successful,1.4701652314308733,17
+1993,Technology Change,Successful,1.409243507620796,7
+1994,Cultural Change,Successful,0.7700497020035777,12
+1995,Process Change,Successful,-0.048123745031876775,4
+1996,Process Change,Partially Successful,1.2800286937862366,12
+1997,Technology Change,Partially Successful,-0.05719981245958555,5
+1998,Technology Change,Successful,0.26007808645654373,20
+1999,Process Change,Partially Successful,1.2965712838768013,11
+2000,Technology Change,Unsuccessful,1.2424348286100335,20
